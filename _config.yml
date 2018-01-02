@@ -24,12 +24,14 @@ description: WUSTL PhD Candidate, Political Science
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "cv"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Resume Stuff:
+    - Academic CV: "cv"
+    - Non-academic Resume: "resume.md"
+  #Resources:
+ #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #  - Learn markdown: "http://www.markdowntutorial.com/"
+  #  - GitHub Pages: "https://pages.github.com/"
+  #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
