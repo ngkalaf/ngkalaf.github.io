@@ -4,14 +4,14 @@ title: Joshua Boston
 subtitle: PhD Student, Political Science
 use-site-title: true
 bigimg:
-  - "/img/stpeters.JPG": "Vatican City"
-  - "/img/Tuscany.JPG": "Tuscany -- Brunello di Montalcino"
-  - "/img/botanical.JPG": "St. Louis Botanical Gardens"
-  - "/img/fussen.JPG": "Fussen"
-  - "/img/gettys.JPG": "Gettysburg National Military Park"
+  - "/img/stpeters.jpg": "Vatican City"
+  - "/img/Tuscany.jpg": "Tuscany -- Brunello di Montalcino"
+  - "/img/botanical.jpg": "St. Louis Botanical Gardens"
+  - "/img/fussen.jpg": "Fussen"
+  - "/img/gettys.jpg": "Gettysburg National Military Park"
 ---
 
-<img src="/img/profile.JPG" class="wrap align-right" alt="Joshua Boston Profile Picture">
+<img src="/img/profile.jpg" class="wrap align-right" alt="Joshua Boston Profile Picture">
 
 <p align="justify">Hi! I am Jonathan Homola, a graduate student in the Department of Political Science at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in St. Louis</a>. I am a political methodologist and a comparativist. My substantive research interests include party competition, representation, political behavior, the role of women in politics, and immigration. My regional areas of expertise are Western democracies and Eastern Europe. Methodologically, I am interested in Bayesian research methods, survival models, survey methodology, and causal inference. My work across these different fields has lead to multiple <a href="http://jhomola.com/research">publications</a> including papers in the Journal of Politics, Political Analysis, the British Journal of Political Science, Comparative Political Studies, and Electoral Studies.</p>
 
