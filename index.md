@@ -5,7 +5,7 @@ subtitle: PhD Student, Political Science
 use-site-title: true
 bigimg:
   - "/img/stpeters.jpg": "Vatican City"
-  - "/img/Tuscany.jpg": "Tuscany -- Brunello di Montalcino"
+  - "/img/tuscany.jpg": "Tuscany -- Brunello di Montalcino"
   - "/img/botanical.jpg": "St. Louis Botanical Gardens"
   - "/img/fussen.jpg": "Fussen"
   - "/img/gettys.jpg": "Gettysburg National Military Park"
