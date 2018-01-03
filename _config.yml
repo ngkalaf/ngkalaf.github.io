@@ -65,6 +65,7 @@ author:
   twitter: jktboston   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  googlescholar: "https://scholar.google.com/citations?user=hKBsYfwAAAAJ&hl=en"
   linkedin: jktboston  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -84,7 +85,8 @@ footer-links-active:
   email: true
   twitter: true
   google-plus: false
-  github: true
+  googlescholar: true
+  github: false
   reddit: false
   linkedin: true
   xing: false
