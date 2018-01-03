@@ -11,6 +11,7 @@ bigimg:
   - "/img/gettys.jpg": "Gettysburg National Military Park"
 ---
 
+
 <img src="/img/profile.jpg" class="wrap align-right" alt="Joshua Boston Profile Picture">
 
 <p align="justify">Hi! My name Joshua Boston, and I'm a PhD candidate in the Department of Political Science at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in Saint Louis</a>. I am most passionate about researching law and courts, primarily in the American politics subfield, but also in comparative contexts. My dissertation, broadly construed, examines the influence of judicial writing styles, especially given hierarchical constraints within the federal judicary. My committee -- Jim Spriggs (chair), Lee Epstein, and Matthew Gabel -- continues to provide me with invaluable advice and guidance. Beyond my committee, I am currently working on research projects with Betsy Sinclair, Patrick Tucker and many of my fellow graduate students, including Dave Carlson, Matt Chick, JBrandon Duck-Mayr, Jonathan Homola, S. Michelle Torres Pacheco, and Nick Waterbury.</p>
