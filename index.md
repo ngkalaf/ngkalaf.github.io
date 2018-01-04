@@ -14,7 +14,6 @@ bigimg:
   - "/img/ub2.jpg": "University at Buffalo"
   - "/img/ub3.jpg": "University at Buffalo"
   - "/img/ub4.jpg": "University at Buffalo"
-  - "/img/ub6.jpg": "University at Buffalo"
   - "/img/ub7.jpg": "University at Buffalo"
   - "/img/ub8.jpg": "University at Buffalo"
   - "/img/brock1.jpg": "Brockport, New York"
