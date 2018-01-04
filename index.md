@@ -4,7 +4,9 @@ title: Joshua Boston
 subtitle: PhD Student, Political Science
 use-site-title: true
 bigimg:
-  - "/img/stpeters.jpg": "Vatican City"
+  - "/img/buf1.jpg": "Buffalo, New York"
+  - "/img/buf2.jpeg": "Buffalo, New York"
+  - "/img/buf3.jpg": "Buffalo, New York"
   - "/img/tuscany.jpg": "Tuscany -- Brunello di Montalcino"
   - "/img/botanical.jpg": "St. Louis Botanical Gardens"
   - "/img/fussen.jpg": "Fussen"
