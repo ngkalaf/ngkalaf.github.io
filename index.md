@@ -4,22 +4,20 @@ title: Joshua Boston
 subtitle: PhD Student, Political Science
 use-site-title: true
 bigimg:
-  - "/img/buf1.jpg": "Buffalo, New York"
-  - "/img/buf2.jpeg": "Buffalo, New York"
-  - "/img/buf3.jpg": "Buffalo, New York"
-  - "/img/roc1.jpg": "Rochester, New York"
-  - "/img/botanical.jpg": "St. Louis Botanical Gardens"
+  - "/img/buf1.jpg": "Buffalo, New York -- Skyline from Lake Erie"
+  - "/img/buf3.jpg": "Buffalo, New York -- Downtown Main Street"
+  - "/img/buf5.jpg": "Buffalo, New York -- Delaware Park Casino"
+  - "/img/roc1.jpg": "Rochester, New York -- Skyline from Genesee River"
+  - "/img/roc1.jpg": "Rochester, New York -- Highland Park"
+  - "/img/botanical.jpg": "Saint Louis Botanical Gardens"
   - "/img/fussen.jpg": "Josh & Kaitlin in Germany"
-  - "/img/ub1.jpg": "University at Buffalo"
+  - "/img/ub1.jpg": "University at Buffalo -- South Campus"
   - "/img/ub2.jpg": "University at Buffalo"
-  - "/img/ub3.jpg": "University at Buffalo"
-  - "/img/ub4.jpg": "University at Buffalo"
-  - "/img/ub7.jpg": "University at Buffalo"
-  - "/img/ub8.jpg": "University at Buffalo"
-  - "/img/brock1.jpg": "Brockport, New York"
-  - "/img/brock2.jpg": "Brockport, New York"
-  - "/img/brock3.JPG": "Brockport, New York"
-  - "/img/brock4.jpg": "Brockport, New York"
+  - "/img/ub3.jpg": "University at Buffalo -- North Campus from Lake La Salle"
+  - "/img/ub7.jpg": "University at Buffalo -- Ellicott Complex"
+  - "/img/ub8.jpg": "University at Buffalo -- Park Hall (Political Science)"
+  - "/img/brock1.jpg": "Brockport, New York -- Main Street"
+  - "/img/brock4.jpg": "Brockport, New York -- Erie Canal"
 ---
 
 
