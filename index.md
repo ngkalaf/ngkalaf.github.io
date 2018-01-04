@@ -18,6 +18,10 @@ bigimg:
   - "/img/ub6.jpg": "University at Buffalo"
   - "/img/ub7.jpg": "University at Buffalo"
   - "/img/ub8.jpg": "University at Buffalo"
+  - "/img/brock1.jpg": "Brockport, New York"
+  - "/img/brock2.jpg": "Brockport, New York"
+  - "/img/brock3.JPG": "Brockport, New York"
+  - "/img/brock4.jpg": "Brockport, New York"
 ---
 
 
