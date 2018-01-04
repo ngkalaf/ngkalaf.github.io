@@ -8,7 +8,7 @@ bigimg:
   - "/img/buf3.jpg": "Buffalo, New York -- Downtown Main Street"
   - "/img/buf5.jpg": "Buffalo, New York -- Delaware Park Casino"
   - "/img/roc1.jpg": "Rochester, New York -- Skyline from Genesee River"
-  - "/img/roc1.jpg": "Rochester, New York -- Highland Park"
+  - "/img/roc2.jpg": "Rochester, New York -- Highland Park"
   - "/img/botanical.jpg": "Saint Louis Botanical Gardens"
   - "/img/fussen.jpg": "Josh & Kaitlin in Germany"
   - "/img/ub1.jpg": "University at Buffalo -- South Campus"
