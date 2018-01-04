@@ -7,10 +7,17 @@ bigimg:
   - "/img/buf1.jpg": "Buffalo, New York"
   - "/img/buf2.jpeg": "Buffalo, New York"
   - "/img/buf3.jpg": "Buffalo, New York"
-  - "/img/tuscany.jpg": "Tuscany -- Brunello di Montalcino"
+  - "/img/roc1.jpg": "Rochester, New York"
   - "/img/botanical.jpg": "St. Louis Botanical Gardens"
-  - "/img/fussen.jpg": "Fussen"
-  - "/img/gettys.jpg": "Gettysburg National Military Park"
+  - "/img/fussen.jpg": "Josh & Kaitlin in Germany"
+  - "/img/ub1.jpg": "University at Buffalo"
+  - "/img/ub2.jpg": "University at Buffalo"
+  - "/img/ub3.jpg": "University at Buffalo"
+  - "/img/ub4.jpg": "University at Buffalo"
+  - "/img/ub5.jpg": "University at Buffalo"
+  - "/img/ub6.jpg": "University at Buffalo"
+  - "/img/ub7.jpg": "University at Buffalo"
+  - "/img/ub8.jpg": "University at Buffalo"
 ---
 
 
