@@ -4,10 +4,10 @@ title: Joshua Boston
 subtitle: PhD Student, Political Science
 use-site-title: true
 bigimg:
-  - "/img/buf1.jpg": "Buffalo, New York -- Skyline from Lake Erie"
-  - "/img/buf3.jpg": "Buffalo, New York -- Downtown Main Street"
+  - "/img/buf1.jpg": "Buffalo, New York -- skyline from Lake Erie"
+  - "/img/buf3.jpg": "Buffalo, New York -- downtown Main Street"
   - "/img/buf5.jpg": "Buffalo, New York -- Delaware Park Casino"
-  - "/img/roc1.jpg": "Rochester, New York -- Skyline from Genesee River"
+  - "/img/roc1.jpg": "Rochester, New York -- skyline from Genesee River"
   - "/img/roc2.jpg": "Rochester, New York -- Highland Park"
   - "/img/botanical.jpg": "Saint Louis Botanical Gardens"
   - "/img/fussen.jpg": "Josh & Kaitlin in Germany"
@@ -15,7 +15,7 @@ bigimg:
   - "/img/ub2.jpg": "University at Buffalo"
   - "/img/ub3.jpg": "University at Buffalo -- North Campus from Lake La Salle"
   - "/img/ub7.jpg": "University at Buffalo -- Ellicott Complex"
-  - "/img/ub8.jpg": "University at Buffalo -- Park Hall (Political Science)"
+  - "/img/ub8.jpg": "University at Buffalo -- Park Hall (political science)"
   - "/img/brock1.jpg": "Brockport, New York -- Main Street"
   - "/img/brock4.jpg": "Brockport, New York -- Erie Canal"
 ---
