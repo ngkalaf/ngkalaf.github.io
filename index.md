@@ -11,10 +11,10 @@ bigimg:
   - "/img/fussen.jpg": "Josh and his wife, Kaitlin"
   - "/img/ub1.jpg": "University at Buffalo"
   - "/img/ub2.jpg": "University at Buffalo"
-  - "/img/ub3.jpg": "University at Buffalo -- North Campus from Lake La Salle"
-  - "/img/ub7.jpg": "University at Buffalo -- Ellicott Complex"
-  - "/img/brock1.jpg": "Brockport, New York -- Main Street"
-  - "/img/brock4.jpg": "Brockport, New York -- Erie Canal"
+  - "/img/ub3.jpg": "University at Buffalo"
+  - "/img/ub7.jpg": "University at Buffalo"
+  - "/img/brock1.jpg": "Brockport, NY"
+  - "/img/brock4.jpg": "Brockport, NY"
 ---
 
 
