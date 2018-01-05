@@ -4,11 +4,11 @@ title: Joshua Boston
 subtitle: PhD Student, Political Science
 use-site-title: true
 bigimg:
-  - "/img/buf1.jpg": "Buffalo, New York -- skyline from Lake Erie"
-  - "/img/buf5.jpg": "Buffalo, New York -- Delaware Park Casino"
-  - "/img/roc1.jpg": "Rochester, New York -- skyline from Genesee River"
+  - "/img/buf1.jpg": "Buffalo, New York"
+  - "/img/buf5.jpg": "Buffalo, New York"
+  - "/img/roc1.jpg": "Rochester, New York"
   - "/img/botanical.jpg": "Saint Louis Botanical Gardens"
-  - "/img/fussen.jpg": "Josh with his wife, Kaitlin"
+  - "/img/fussen.jpg": "Josh and his wife, Kaitlin"
   - "/img/ub1.jpg": "University at Buffalo"
   - "/img/ub2.jpg": "University at Buffalo"
   - "/img/ub3.jpg": "University at Buffalo -- North Campus from Lake La Salle"
