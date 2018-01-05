@@ -25,7 +25,7 @@ description: WUSTL PhD Candidate, Political Science
 navbar-links:
   About Me: "aboutme"
   Resume Stuff:
-    - Academic CV: "files/cv_boston.pdf"
+    - Academic CV: "img/cv_boston.pdf"
     - Non-academic Resume: "resume"
   #Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
