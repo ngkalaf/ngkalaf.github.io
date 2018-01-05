@@ -24,9 +24,16 @@ description: WUSTL PhD Candidate, Political Science
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume Stuff:
-    - Academic CV: "img/cv_boston.pdf"
-    - Non-academic Resume: "resume"
+  Academic Experience:
+    - Curriculum Vitae: "img/cv_boston.pdf"
+    - Teaching: "teaching"
+    - Research: "research"
+    - Conferences: "conferences"
+  Professional Experience:
+    - Curriculum Vitae: "img/cv_boston.pdf"
+    - Teaching: "teaching"
+    - Research: "research"
+    - Conferences: "conferences"
   #Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
