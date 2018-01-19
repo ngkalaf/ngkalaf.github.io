@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Non-Academic Experience
-subtitle: Why you'd want to go on a date with me
+title: Research
+subtitle: List of articles and working papers. Links to abstracts and Google Scholar.
+bigimg: "/img/weimar.jpg" 
 ---
 
-stuff goes here 
+stuff goes here
