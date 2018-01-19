@@ -3,6 +3,7 @@ layout: page
 title: University Teaching Experience
 subtitle: Josh's work as an instructor and teaching assistant 
 use-mix-title: true
+bigimg: "/img/washu1.jpg"
 ---
 
 ### Courses as Primary Instructor (please <a href="https://graduate.artsci.wustl.edu/boston/contact" target="_blank">contact me</a> for syllabi)
