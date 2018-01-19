@@ -15,25 +15,25 @@ use-mix-title: true
   * PSC 306: The American Presidency (Summer 2012)
 
 #### Buffalo State College, SUNY
-  * Introduction to American Politics (Spring 2013)
-  * Introduction to Government and Politics (Spring 2013)
+* PSC 101: Introduction to Government and Politics (Spring 2013)
+* PSC 102: Introduction to American Politics (Spring 2013)
 
 
 
 ### Guest Lecturer
 #### Washington University in St. Louis
-  * Introduction to American Politics
-  * Defendant's Rights
+  * PS 101: Introduction to American Politics
+  * PS 3??: Defendant's Rights
 
 #### University at Buffalo, SUNY
-  * Law and the Political Process (Stephen Halpern)
+  * PSC 215: Law and the Political Process
   
 ### Courses as Teaching Assistant
 #### WUSTL
-  * Constitutional Law (Lee Epstein)
-  * Topics in American Politics: The Supreme Court (Jim Spriggs)
-  * Introduction to American Politics (Andrew Reeves)
-  * Defendant's Rights (Jim Spriggs)
+  * PS 101: Introduction to American Politics (Andrew Reeves)
+  * PS 3??: Constitutional Law (Lee Epstein)
+  * PS 3??: Topics in American Politics: The Supreme Court (Jim Spriggs)
+  * PS 3??: Defendant's Rights (Jim Spriggs)
 
 #### University at Buffalo, SUNY
   * Introduction to American Politics (Josh Dyck)
