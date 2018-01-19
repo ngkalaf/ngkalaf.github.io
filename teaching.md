@@ -5,14 +5,14 @@ subtitle: Josh's work as an instructor and teaching assistant
 use-mix-title: true
 ---
 
-### Courses as Primary Instructor
+### Courses as Primary Instructor (please <a href="https://graduate.artsci.wustl.edu/boston/contact" target="_blank">contact me</a> for syllabi)
 #### Washington University in St. Louis
   * Teaching Assistant Practicum (Fall 2015, Fall 2016)
 
-#### University at Buffalo, SUNY
-  * Cases in Civil Liberties 
-  * Constitutional Law 
-  * The American Presidency 
+#### University at Buffalo, SUNY 
+  * PSC 301: Cases in Civil Liberties (Summer 2011)
+  * PSC 303: Constitutional Law (Summer 2013)
+  * PSC 306: The American Presidency (Summer 2012)
 
 #### Buffalo State College, SUNY
   * Introduction to American Politics (Spring 2013)
