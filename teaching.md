@@ -2,6 +2,7 @@
 layout: page
 title: University Teaching Experience
 subtitle: Josh's work as an instructor and teaching assistant 
+use-mix-title: true
 ---
 
 ### Courses as Primary Instructor
