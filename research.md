@@ -22,7 +22,7 @@ Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tuck
 
 # Working Papers
 
-Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." *Under Review*. [[Abstract]](http://www.joshuaboston.com/abstracts/#complexity) <a href="http://www.joshuaboston.com/abstracts/#complexity" target="_blank">Abstract</a>
+Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." *Under Review*. [Abstract](http://www.joshuaboston.com/abstracts/#complexity) <a href="http://www.joshuaboston.com/abstracts/#complexity" target="_blank">Abstract</a>
     
 Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Presidential Leadership and the Politics of Direct Action: Kennedy's Fair Housing Order." *Under Review*
 
