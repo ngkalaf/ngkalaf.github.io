@@ -5,7 +5,7 @@ description: This page contains abstracts for my working papers, including those
 use-mix-title: true
 ---
 
-### <a name="complexity"></a>Homola, Jonathan. Forthcoming. "Strategic Opinion Language on the U.S. Courts of Appeals."
+### <a name="complexity"></a>Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals."
 What strategies do judges employ when they anticipate review? Constrained judges behave strategically by using particular instruments -- like language complexity -- when authoring opinions. Prior studies suggest judges use complexity in anticipation of legislative hostility. Similarly, the threat of review and reversal may spur opinion complexity. This study examines variations in circuit court opinions resulting from precedent treatment and Supreme Court preferences. When a circuit negatively treats a Supreme Court precedent that the justices prefer or a circuit positively treats a precedent the justices dislike, opinion complexity should increase. These hypotheses find support, suggesting that circuits strategically insulate using opinion complexity.
 
 ### <a name="contact"></a>Homola, Jonathan, and <a href="http://pages.wustl.edu/tavits" target="_blank">Margit Tavits</a>. Forthcoming. Contact Reduces Immigration-Related Fears for Leftist but Not for Rightist Voters. *Comparative Political Studies*.
