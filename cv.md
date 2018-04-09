@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Curriculum Vitae
-subtitle: Academic Stuff
 ---
 
 <p>My CV is available at the following link: <a href="https://www.dropbox.com/s/d6dbsvlno1x602s/JBoston_cv.pdf?dl=0" target="_blank">CV</a></p>
