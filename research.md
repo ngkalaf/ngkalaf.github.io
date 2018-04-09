@@ -22,18 +22,18 @@ Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tuck
 
 # Working Papers
 
-Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." *Under Review*
+Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." *Under Review*. [[Abstract]](http://http://www.joshuaboston.com/abstracts#complexity)
     
 Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Presidential Leadership and the Politics of Direct Action: Kennedy's Fair Housing Order." *Under Review*
 
-Boston, Joshua & JB Duck-Mayr. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making."
+Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [[Abstract]](http://http://www.joshuaboston.com/abstracts#independence)
 
 Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. "Political Polarization and Lifestyle Differences in America."
-    
-Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective."
     
 Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration."
 
 Boston, Joshua & JB Duck-Mayr. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"
+
+Boston, Joshua & JB Duck-Mayr. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making."
 
 Boston, Joshua, Matt Chick & Nicholas Waterbury. "Supreme Court Agenda Setting and Precedent Influence."
