@@ -1,6 +1,19 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Joshua Boston
+subtitle: Curriculum Vitae
+use-site-title: true
+bigimg:
+  - "/img/stl4.jpg": "WUSTL Seigle Hall"
+  - "/img/wustl44.jpg": "WUSTL Holmes Lounge"
+  - "/img/wustl55.jpg": "WUSTL Law Library"
+  - "/img/wustl66.jpg": "WUSTL Law Library"
+  - "/img/wustl77.jpg": "Washington University in Saint Louis"
+  - "/img/wustl99.jpg": "Washington University in Saint Louis"
+  - "/img/ub1.jpg": "University at Buffalo"
+  - "/img/ub2.jpg": "University at Buffalo"
+  - "/img/ub3.jpg": "University at Buffalo"
+  - "/img/ub7.jpg": "University at Buffalo"
 ---
 
 <p>My CV is available at the following link: <a href="https://www.dropbox.com/s/d6dbsvlno1x602s/JBoston_cv.pdf?dl=0" target="_blank">CV</a></p>
