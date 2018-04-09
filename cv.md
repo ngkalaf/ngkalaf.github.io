@@ -12,4 +12,4 @@ subtitle: Academic Stuff
 
 
 <p>Please feel free to 
-<a href="mailto:jktboston@gmail.com" target="_blank">contact me</a> in case you have any questions or comments. Thanks so much!</p>
+<a href="mailto:jboston@wustl.edu" target="_blank">contact me</a> in case you have any questions or comments. Thanks so much!</p>
