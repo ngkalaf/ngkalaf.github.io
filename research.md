@@ -16,10 +16,24 @@ bigimg:
 
 <p>Replication files for my published works are available upon request. Please feel free to email me: <a href="mailto:jboston@wustl.edu" target="_blank">jboston@wustl.edu</a></p>
 
-# Peer-Reviewer Articles
+# Peer-Reviewed Articles
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>
 
 # Working Papers
 
-TBD
+Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." *Under Review*
+    
+Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Presidential Leadership and the Politics of Direct Action: Kennedy's Fair Housing Order." *Under Review*
+
+Boston, Joshua & JB Duck-Mayr. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making."
+
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. "Political Polarization and Lifestyle Differences in America."
+    
+Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective."
+    
+Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration."
+
+Boston, Joshua & JB Duck-Mayr. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"
+
+Boston, Joshua, Matt Chick & Nicholas Waterbury. "Supreme Court Agenda Setting and Precedent Influence."
