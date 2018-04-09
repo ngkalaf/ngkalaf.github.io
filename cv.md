@@ -4,13 +4,12 @@ title: Curriculum Vitae
 subtitle: Academic Stuff
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<p>My CV is available at the following link: <a href="https://www.dropbox.com/s/d6dbsvlno1x602s/JBoston_cv.pdf?dl=0" target="_blank">CV</a></p>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### my history
+<p>Information on my conference attendance is available here: <a href="https://www.dropbox.com/s/my4v02i0wc8a6tq/JBoston_conference.pdf?dl=0" target="_blank">conference participations</a></p>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+<p>Please feel free to 
+<a href="mailto:jktboston@gmail.com" target="_blank">contact me</a> in case you have any questions or comments. Thanks so much!</p>
