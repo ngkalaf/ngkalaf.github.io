@@ -28,7 +28,7 @@ Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Presidential Leadership 
 
 Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [[Abstract]](http://www.joshuaboston.com/abstracts/#independence)
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. "Political Polarization and Lifestyle Differences in America."
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. "Political Polarization and Lifestyle Differences in America." [[Abstract]](http://www.joshuaboston.com/abstracts/#lifestyles)
     
 Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration."
 
