@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joshua Boston
-subtitle: Published Works and Working Papers
+subtitle: Publications and Working Papers
 description: List of articles, book chapters, working papers. Links to abstracts and Google Scholar.
 use-site-title: true
 bigimg:
