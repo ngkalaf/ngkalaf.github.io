@@ -18,7 +18,7 @@ bigimg:
 
 # Peer-Reviewed Articles
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a></p>
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a>
 
 # Working Papers
 
