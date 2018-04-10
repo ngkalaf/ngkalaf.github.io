@@ -39,7 +39,7 @@ bigimg:
 #### Washington University in St. Louis
   * PS 101: Introduction to American Politics (Andrew Reeves) -- Course Evaluations: <a href="https://www.dropbox.com/s/z8payyulapkqcca/Fall2015.PDF?dl=0" target="_blank">Fall 2015</a>, <a href="https://www.dropbox.com/s/k5dq1oqbl30m1av/Fall2016.pdf?dl=0" target="_blank">Fall 2016</a>
   * PS 3431: Constitutional Law (Lee Epstein) -- Course Evaluations: <a href="https://www.dropbox.com/s/npz097hvcc7j4o1/Spring2015.PDF?dl=0" target="_blank">Spring 2015</a>
-  * PS 3441: Defendants' Rights (Jim Spriggs) -- Course Evaluations: <a href="https://www.dropbox.com/s/8ug835y6z9hejr5/Spring2017.pdf?dl=0" target="_blank">Spring 2015</a>
+  * PS 3441: Defendants' Rights (Jim Spriggs) -- Course Evaluations: <a href="https://www.dropbox.com/s/8ug835y6z9hejr5/Spring2017.pdf?dl=0" target="_blank">Spring 2017</a>
   * PS 3510: Topics in American Politics: The Supreme Court (Jim Spriggs) -- Course Evaluations: <a href="https://www.dropbox.com/s/t3l7a11xxn9j8xw/Fall2014.PDF?dl=0" target="_blank">Fall 2014</a>
 
 #### University at Buffalo, SUNY
