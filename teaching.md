@@ -38,9 +38,9 @@ bigimg:
 ### Courses as Teaching Assistant
 #### WUSTL
   * PS 101: Introduction to American Politics (Andrew Reeves)
-  * PS 3??: Constitutional Law (Lee Epstein)
-  * PS 3??: Topics in American Politics: The Supreme Court (Jim Spriggs)
-  * PS 3??: Defendant's Rights (Jim Spriggs)
+  * PS 3431: Constitutional Law (Lee Epstein)
+  * PS 3441: Defendants' Rights (Jim Spriggs)
+  * PS 3510: Topics in American Politics: The Supreme Court (Jim Spriggs)
 
 #### University at Buffalo, SUNY
   * Introduction to American Politics (Josh Dyck)
