@@ -16,7 +16,7 @@ bigimg:
   - "/img/ub7.jpg": "University at Buffalo"
 ---
 
-<p>My non-academic resume is available at the following link: <a href="https://www.dropbox.com/s/bquked6bl9fviwt/JBoston_Resume.pdf?dl=0" target="_blank">Resume</a></p>
+<p>My resume, with both my academic and non-academic experiences, is available at the following link: <a href="https://www.dropbox.com/s/bquked6bl9fviwt/JBoston_Resume.pdf?dl=0" target="_blank">Resume</a></p>
 
 
 
