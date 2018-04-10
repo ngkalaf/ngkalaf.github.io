@@ -18,13 +18,13 @@ bigimg:
 
 # Peer-Reviewed Articles
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a></p>
 
 # Working Papers
 
 Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." *Under Review*. [Abstract](http://www.joshuaboston.com/abstracts/#complexity)
     
-Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Presidential Leadership and the Politics of Direct Action: Kennedy's Fair Housing Order." *Under Review* [Abstract](http://www.joshuaboston.com/abstracts/#jfk)
+Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Presidential Leadership and the Politics of Direct Action: Kennedy's Fair Housing Order." *Under Review*. [Abstract](http://www.joshuaboston.com/abstracts/#jfk)
 
 Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)
 
