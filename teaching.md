@@ -12,7 +12,7 @@ bigimg:
   - "/img/ussc3.jpg": "Supreme Court of the United States"
 ---
 
-### Courses as Primary Instructor (please <a href="https://graduate.artsci.wustl.edu/boston/contact" target="_blank">contact me</a> for syllabi)
+### Courses as Primary Instructor 
 #### Washington University in St. Louis
   * PS 419: Teaching Assistant Practicum (Fall 2015, Fall 2016)
 
@@ -36,11 +36,11 @@ bigimg:
   * PSC 215: Law and the Political Process
   
 ### Courses as Teaching Assistant
-#### Washington University in St. Louis
-  * PS 101: Introduction to American Politics (Andrew Reeves) -- Course Evaluations: <a href="https://www.dropbox.com/s/z8payyulapkqcca/Fall2015.PDF?dl=0" target="_blank">Fall 2015</a>, <a href="https://www.dropbox.com/s/k5dq1oqbl30m1av/Fall2016.pdf?dl=0" target="_blank">Fall 2016</a>
-  * PS 3431: Constitutional Law (Lee Epstein) -- Course Evaluations: <a href="https://www.dropbox.com/s/npz097hvcc7j4o1/Spring2015.PDF?dl=0" target="_blank">Spring 2015</a>
-  * PS 3441: Defendants' Rights (Jim Spriggs) -- Course Evaluations: <a href="https://www.dropbox.com/s/8ug835y6z9hejr5/Spring2017.pdf?dl=0" target="_blank">Spring 2017</a>
-  * PS 3510: Topics in American Politics: The Supreme Court (Jim Spriggs) -- Course Evaluations: <a href="https://www.dropbox.com/s/t3l7a11xxn9j8xw/Fall2014.PDF?dl=0" target="_blank">Fall 2014</a>
+#### Washington University in St. Louis (links lead to TA course evaluations)
+  * PS 101: Introduction to American Politics (Andrew Reeves) -- <a href="https://www.dropbox.com/s/z8payyulapkqcca/Fall2015.PDF?dl=0" target="_blank">Fall 2015</a>, <a href="https://www.dropbox.com/s/k5dq1oqbl30m1av/Fall2016.pdf?dl=0" target="_blank">Fall 2016</a>
+  * PS 3431: Constitutional Law (Lee Epstein) -- <a href="https://www.dropbox.com/s/npz097hvcc7j4o1/Spring2015.PDF?dl=0" target="_blank">Spring 2015</a>
+  * PS 3441: Defendants' Rights (Jim Spriggs) -- <a href="https://www.dropbox.com/s/8ug835y6z9hejr5/Spring2017.pdf?dl=0" target="_blank">Spring 2017</a>
+  * PS 3510: Topics in American Politics: The Supreme Court (Jim Spriggs) -- <a href="https://www.dropbox.com/s/t3l7a11xxn9j8xw/Fall2014.PDF?dl=0" target="_blank">Fall 2014</a>
 
 #### University at Buffalo, SUNY
   * Introduction to American Politics (Josh Dyck)
@@ -54,3 +54,6 @@ bigimg:
   * Supreme Court Seminar (Christy Boyd)
   * Basic Statistics for Social Science (Michelle Benson)
   * Pre-Law Honors Seminar (Stephen Halpern)
+
+
+Please <a href="https://graduate.artsci.wustl.edu/boston/contact" target="_blank">contact me</a> for any syllabi. I, unfortunately, only have course evaluations available for my Washington University teaching assistant experience. The University at Buffalo and Buffalo State College do not collect teaching evaluations for teaching assistants or adjunct instructors. 
