@@ -24,5 +24,5 @@ bigimg:
 
 
 <p>Please feel free to 
-<a href="mailto:jboston@wustl.edu" target="_blank">contact me</a> in case you have any questions or comments. Thanks so much!</p>
+<a href="mailto:jboston@wustl.edu" target="_blank">contact me</a> in case you have any questions or comments. Professional references are available upon request. Thanks so much!</p>
 
