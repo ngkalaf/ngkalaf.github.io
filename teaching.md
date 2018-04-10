@@ -56,4 +56,4 @@ bigimg:
   * Pre-Law Honors Seminar (Stephen Halpern)
 
 
-Please <a href="https://graduate.artsci.wustl.edu/boston/contact" target="_blank">contact me</a> for any syllabi. I, unfortunately, only have course evaluations available for my Washington University teaching assistant experience. The University at Buffalo and Buffalo State College do not collect teaching evaluations for teaching assistants or adjunct instructors. 
+Please <a href="https://graduate.artsci.wustl.edu/boston/contact" target="_blank">contact me</a> for any syllabi. Unfortunately, I only have course evaluations available for my Washington University teaching assistant experience. The University at Buffalo and Buffalo State College do not collect teaching evaluations for teaching assistants or adjunct instructors. 
