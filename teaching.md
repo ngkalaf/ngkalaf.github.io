@@ -14,7 +14,7 @@ bigimg:
 
 ### Courses as Primary Instructor (please <a href="https://graduate.artsci.wustl.edu/boston/contact" target="_blank">contact me</a> for syllabi)
 #### Washington University in St. Louis
-  * Teaching Assistant Practicum (Fall 2015, Fall 2016)
+  * PS 419: Teaching Assistant Practicum (Fall 2015, Fall 2016)
 
 #### University at Buffalo, SUNY 
   * PSC 301: Cases in Civil Liberties (Summer 2011)
@@ -30,7 +30,7 @@ bigimg:
 ### Guest Lecturer
 #### Washington University in St. Louis
   * PS 101: Introduction to American Politics
-  * PS 3??: Defendant's Rights
+  * PS 3441: Defendants' Rights
 
 #### University at Buffalo, SUNY
   * PSC 215: Law and the Political Process
