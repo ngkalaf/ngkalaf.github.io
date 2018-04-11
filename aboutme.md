@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Josh
-subtitle: PhD Student, Political Science
+subtitle: Life outside academia
 ---
 
 <p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="/img/debate.jpg" alt="Attending the WUSTL Presidential Debate (October 2016)"></p>
