@@ -26,8 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Academic Experience:
     - Curriculum Vitae: "cv"
-    - Teaching: "teaching"
     - Research: "research"
+    - Teaching: "teaching"
   Professional Experience:
     - Resume: "resume"
   #Resources:
