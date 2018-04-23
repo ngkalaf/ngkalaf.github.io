@@ -32,8 +32,8 @@ Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tu
     
 Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." [Abstract](http://www.joshuaboston.com/abstracts/#clinton)
 
-Boston, Joshua & JB Duck-Mayr. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"
+Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"
 
-Boston, Joshua & JB Duck-Mayr. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making."
+Boston, Joshua. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making."
 
 Boston, Joshua, Matt Chick & Nicholas Waterbury. "Supreme Court Agenda Setting and Precedent Influence."
