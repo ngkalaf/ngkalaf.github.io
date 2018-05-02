@@ -28,8 +28,8 @@ navbar-links:
     - Curriculum Vitae: "cv"
     - Research: "research"
     - Teaching: "teaching"
-  Professional Experience:
-    - Resume: "resume"
+  #Professional Experience:
+   # - Resume: "resume"
   #Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
