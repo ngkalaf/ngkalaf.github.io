@@ -24,10 +24,9 @@ description: WUSTL PhD Candidate, Political Science
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Academic Experience:
-    - Curriculum Vitae: "cv"
-    - Research: "research"
-    - Teaching: "teaching"
+  Curriculum Vitae: "cv"
+  Research: "research"
+  Teaching: "teaching"
   #Professional Experience:
    # - Resume: "resume"
   #Resources:
