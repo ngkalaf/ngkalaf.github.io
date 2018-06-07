@@ -24,7 +24,7 @@ Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tuck
 
 # Other Publications
 
-Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe Singer, Charles Stewart, Michael C. Herron, Emily Beaulieu, Frederick Boehmke, Joshua Boston, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Matthew R. Miles, David Miller, Lindsay Nielson, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Robert Stein, Rachel VanSickle-Ward, Abby K. Wood \& Julie Wronski. 2018. "Pedagogical Value of Polling-Place Observation by Students." <i>PS: Political Science & Politics</i>. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">Article</a>
+Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe Singer, Charles Stewart, Michael C. Herron, Emily Beaulieu, Frederick Boehmke, Joshua Boston, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Matthew R. Miles, David Miller, Lindsay Nielson, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Robert Stein, Rachel VanSickle-Ward, Abby K. Wood & Julie Wronski. 2018. "Pedagogical Value of Polling-Place Observation by Students." <i>PS: Political Science & Politics</i>. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">Article</a>
 
 # Working Papers
     
