@@ -16,11 +16,15 @@ bigimg:
 
 <p>Replication files for my published works are available upon request. Please feel free to email me: <a href="mailto:jboston@wustl.edu" target="_blank">jboston@wustl.edu</a></p>
 
-# Peer-Reviewed Articles
+# Refereed Articles
 
 Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." Conditionally accepted at *Journal of Law & Courts*. [Abstract](http://www.joshuaboston.com/abstracts/#complexity)
 
 Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a>
+
+# Other Publications
+
+Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe Singer, Charles Stewart, Michael C. Herron, Emily Beaulieu, Frederick Boehmke, Joshua Boston, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Matthew R. Miles, David Miller, Lindsay Nielson, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Robert Stein, Rachel VanSickle-Ward, Abby K. Wood \& Julie Wronski. 2018. "Pedagogical Value of Polling-Place Observation by Students." <i>PS: Political Science & Politics</i>. href="https://doi.org/10.1017/S1049096518000550" trarget="_blank">Article</a>
 
 # Working Papers
     
