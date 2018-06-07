@@ -28,7 +28,7 @@ Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe 
 
 # Working Papers
     
-Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Presidential Leadership and the Politics of Direct Action: Kennedy's Fair Housing Order." *Invited to revise & resubmit*. [Abstract](http://www.joshuaboston.com/abstracts/#jfk)
+Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Power Plus Persuasion: The Anatomy of Kennedy’s Housing Order." *Invited to revise & resubmit*. [Abstract](http://www.joshuaboston.com/abstracts/#jfk)
 
 Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." *Invited to revise & resubmit*. [Abstract](http://www.joshuaboston.com/abstracts/#clinton)
 
