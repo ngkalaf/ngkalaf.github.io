@@ -24,17 +24,17 @@ Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tuck
 
 # Other Publications
 
-Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe Singer, Charles Stewart, Michael C. Herron, Emily Beaulieu, Frederick Boehmke, Joshua Boston, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Matthew R. Miles, David Miller, Lindsay Nielson, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Robert Stein, Rachel VanSickle-Ward, Abby K. Wood \& Julie Wronski. 2018. "Pedagogical Value of Polling-Place Observation by Students." <i>PS: Political Science & Politics</i>. href="https://doi.org/10.1017/S1049096518000550" trarget="_blank">Article</a>
+Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe Singer, Charles Stewart, Michael C. Herron, Emily Beaulieu, Frederick Boehmke, Joshua Boston, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Matthew R. Miles, David Miller, Lindsay Nielson, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Robert Stein, Rachel VanSickle-Ward, Abby K. Wood \& Julie Wronski. 2018. "Pedagogical Value of Polling-Place Observation by Students." <i>PS: Political Science & Politics</i>. href="https://doi.org/10.1017/S1049096518000550" target="_blank">Article</a>
 
 # Working Papers
     
-Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Presidential Leadership and the Politics of Direct Action: Kennedy's Fair Housing Order." *Under Review*. [Abstract](http://www.joshuaboston.com/abstracts/#jfk)
+Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Presidential Leadership and the Politics of Direct Action: Kennedy's Fair Housing Order." *Invited to revise & resubmit*. [Abstract](http://www.joshuaboston.com/abstracts/#jfk)
+
+Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." *Invited to revise & resubmit*. [Abstract](http://www.joshuaboston.com/abstracts/#clinton)
+
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." *Under Review*. [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
 
 Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)
-
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. "Casualties of the Culture War: Political Polarization and Lifestyle Differences in America." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
-    
-Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." [Abstract](http://www.joshuaboston.com/abstracts/#clinton)
 
 Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"
 
