@@ -32,7 +32,7 @@ Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Power Plus Persuasion: T
 
 Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." *Invited to revise & resubmit*. [Abstract](http://www.joshuaboston.com/abstracts/#clinton)
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, and Patrick Tucker. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." *Under Review*. [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." *Under Review*. [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
 
 Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)
 
