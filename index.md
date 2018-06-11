@@ -19,7 +19,17 @@ bigimg:
   - "/img/ub7.jpg": "University at Buffalo"
 ---
 
-<p align="justify">Hi! My name Joshua Boston, and I'm a PhD candidate in the Department of Political Science at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in Saint Louis</a>. I am most passionate about researching law and courts, primarily in the American politics subfield, but also in comparative contexts. My dissertation, broadly construed, examines the causes and consequences of opinion language and writing style within the U.S. federal judiciary. My committee -- <a href="https://polisci.wustl.edu/james_spriggs" target="_blank">Jim Spriggs</a> (chair), <a href="http://epstein.wustl.edu/" target="_blank">Lee Epstein</a>, and <a href="https://matthewgabel.wixsite.com/mysite" target="_blank">Matthew Gabel</a> -- continues to provide me with invaluable advice and guidance. Beyond my committee, I am currently working on research projects with <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="http://www.patricktucker.org/" target="_blank">Patrick Tucker</a> and many of my fellow graduate students, including <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">Dave Carlson</a>, <a href="https://graduate.artsci.wustl.edu/mattchick" target="_blank">Matt Chick</a>, <a href="http://jbduckmayr.com/" target="_blank">JBrandon Duck-Mayr</a>, <a href="http://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="http://smtorres.org/" target="_blank">S. Michelle Torres Pacheco</a>, and <a href="https://polisci.wustl.edu/faculty/nicholas-waterbury" target="_blank">Nick Waterbury</a>.</p>
+# [About Me](http://www.joshuaboston.com/aboutme/)
 
-<p align="justify">Before coming to St. Louis, I received my M.A. in political science from the University at Buffalo, where I studied and researched for three years. I worked with faculty members like <a href="http://clboyd.net/" target="_blank">Christina L. Boyd</a>, <a href="http://polsci.buffalo.edu/facultystaff/lamb/" target="_blank">Charles M. Lamb</a>, Lynn Mather, and Stephen Halpern, among others. In 2010, I received my B.A. (SCL, ΦΒΚ) in interdisciplinary social sciences with concentrations in legal studies and journalism, and a minor in political science.</p>
+<p align="justify">Hi! My name Joshua Boston, and I'm a PhD candidate in the Department of Political Science at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in Saint Louis</a>. My research focuses on judicial politics in the American context, though I have additional interests in American political institutions and comparative courts. Before coming to St. Louis, I earned my B.A. in legal studies (summa cum laude, PBK) at the University at Buffalo (SUNY), where I later earned my M.A. in political science.
+  
+# [Research Interests](http://www.joshuaboston.com/research/) 
+
+My primary research interests are related to judicial politics in the American context. My dissertation studies the causes and consequences of judges' opinion writing within the U.S. federal judiciary. Additionally, I am interested in questions regarding legal doctrine/precedent treatment, agenda setting, and judicial confirmation politics. Aside from these particular interests, I am involved in various other projects studying the American president, comparative courts, and mass opinion/polarization.
+  
+# [Dissertation](http://www.joshuaboston.com/research/)
+
+In my dissertation, I analyze judicial writing in three distict contexts, with the overarching goal of identifying opinion writing as a fundamental element of judicial behavior akin to policy preferences. I am interested in using new and established measures of writing characteristics to develop an overarching understanding of how judges write given certain constraints and how that writing leads to particular policy outcomes. 
+
+
 
