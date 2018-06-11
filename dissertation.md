@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Joshua Boston
-subtitle: Publications and Working Papers
-description: List of articles, book chapters, working papers. Links to abstracts and Google Scholar.
+subtitle: Dissertation Research
+description: Summary of my completed dissertation research
 use-site-title: true
 bigimg:
   - "/img/wustl55.jpg": "WUSTL Law Library"
