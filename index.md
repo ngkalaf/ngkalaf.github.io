@@ -29,7 +29,7 @@ bigimg:
   
 # [Dissertation](http://www.joshuaboston.com/dissertation/)
 
-<p align="justify">In my dissertation, I analyze judicial writing in three distict contexts, with the overarching goal of identifying opinion writing as a fundamental element of judicial behavior akin to policy preferences. I am interested in using new and established measures of writing characteristics to develop an overarching understanding of how judges write given certain constraints and how judges' opinions lead to particular policy outcomes.</p>
+<p align="justify">In my dissertation, I analyze judicial writing in three distinct contexts, with the overarching goal of identifying opinion writing as a fundamental element of judicial behavior akin to policy preferences. I am interested in using new and established measures of writing characteristics to develop an overarching understanding of how judges write given certain constraints and how judges' opinions lead to particular policy outcomes.</p>
   
 
 
