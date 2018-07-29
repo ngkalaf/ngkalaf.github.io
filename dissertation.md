@@ -16,7 +16,7 @@ bigimg:
 
 <p align="justify">What are the causes and consequences of opinion language within the U.S. federal judiciary? The burgeoning scholarship on judicial opinion writing has found evidence of language borrowing, strategic opinion formation, and consequences for bureaucratic implementation. Still, the literature has not coalesced toward an overarching understanding of judges' writing as a fundamental element of judicial behavior akin to judges' preferences. In the same way that a judge's ideology motivates her dispositions across a set of cases, so too does a judge's writing style have broad implications for litigants, bureaucrats, and policy-makers, among many others. My dissertation takes advantage of this scholarly void in three distinct ways. First, I examine how judges write their opinions strategically, especially concerning hierarchical constraints. Second, I develop writing scores for U.S. federal judges who served between 2000 and 2010, from which I examine deviations in style given collegial interactions. Third, I study the impact of judges’ opinions on how street-level bureaucrats implement legal rules.</p>
 
-# Chatper 1
+# Chapter 1
 
 "Strategic Opinion Language on the U.S. Courts of Appeals." Conditionally accepted at *Journal of Law & Courts*. 
 
