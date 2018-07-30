@@ -41,7 +41,7 @@ Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tuck
 
 Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)
 
-Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"
+Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?" [Abstract](http://www.joshuaboston.com/abstracts/#patent)
 
 Boston, Joshua. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making."
 
