@@ -43,6 +43,6 @@ Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicia
 
 Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?" [Abstract](http://www.joshuaboston.com/abstracts/#patent)
 
-Boston, Joshua. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making."
+Boston, Joshua. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." [Abstract](http://www.joshuaboston.com/abstracts/#deference)
 
 Boston, Joshua, Matt Chick & Nicholas Waterbury. "Supreme Court Agenda Setting and Precedent Influence."
