@@ -16,7 +16,7 @@ bigimg:
   - "/img/ub7.jpg": "University at Buffalo"
 ---
 
-<p>My CV is available at the following link: <a href="https://www.dropbox.com/s/qn25qfhgia8eowg/JBoston_cv_June2018.pdf?dl=0" target="_blank">CV</a></p>
+<p>My CV is available at the following link: <a href="https://www.dropbox.com/s/y3rww8fhkll662o/JBoston_cv_Aug2018.pdf?dl=0" target="_blank">CV</a></p>
 
 
 
