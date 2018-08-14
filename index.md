@@ -20,7 +20,7 @@ bigimg:
 ---
 
 
-<p><img align="left" style="padding: 0 15px; width: 15%; height: 15%" src="/img/debate.jpg" alt="Presidential Debate at WashU (October 9, 2016)"></p>
+<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="/img/debate.jpg" alt="Presidential Debate at WashU (October 9, 2016)"></p>
 <p style="margin-top: 20px;"> </p>
 # [About Me](http://www.joshuaboston.com/aboutme/)
 
