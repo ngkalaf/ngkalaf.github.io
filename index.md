@@ -20,8 +20,9 @@ bigimg:
 ---
 
 
-<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="jktboston.github.io/img/2018-04-16 18.19.26 small.jpg" alt="Presidential Debate at WashU (October 9, 2016)"></p>
+<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/2018-04-16 18.19.26 small.jpg"></p>
 <p style="margin-top: 20px;"> </p>
+
 # [About Me](http://www.joshuaboston.com/aboutme/)
 
 <p align="justify">Hello! My name Joshua Boston, and I'm a PhD candidate in the Department of Political Science at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in Saint Louis</a>. My research focuses on judicial politics in the American context, though I have additional interests in American political institutions and comparative courts. Before coming to St. Louis, I earned my B.A. (SCL, ΦΒΚ) in legal studies at the University at Buffalo, where I later earned my M.A. in political science.</p>
