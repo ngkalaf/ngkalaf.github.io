@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joshua Boston
-subtitle: PhD Student, Political Science
+subtitle: PhD Candidate, Political Science
 use-site-title: true
 bigimg:
   - "/img/stl4.jpg": "Washington University in St. Louis"
