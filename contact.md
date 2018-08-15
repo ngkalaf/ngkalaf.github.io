@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About Josh
-subtitle: Life outside academia
+title: Contact Josh
 ---
 
 <p><img align="right" style="padding: 0 15px; width: 30%; height: 30%" src="/img/dog.jpg" alt="Josh with his dog, Lucie"></p>
