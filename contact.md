@@ -11,5 +11,9 @@ subtitle: Life outside academia
 <p>Phone number: 585-613-8325</p>
 
 <p>Mailing address: 
-1 Brookings Drive, Campus Box 1063
+1 Brookings Drive, Campus Box 1063,
 St. Louis, MO 63130</p>
+
+
+<p>Office location: 
+277 Seigle Hall, Danforth Campus, Washington University in St. Louis</p>
