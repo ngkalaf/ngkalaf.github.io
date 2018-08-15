@@ -5,11 +5,10 @@ subtitle: PhD Student, Political Science
 use-site-title: true
 bigimg:
   - "/img/stl4.jpg": "WUSTL Seigle Hall"
-  - "/img/wustl44.jpg": "WUSTL Holmes Lounge"
-  - "/img/wustl55.jpg": "WUSTL Law Library"
-  - "/img/wustl66.jpg": "WUSTL Law Library"
-  - "/img/wustl77.jpg": "Washington University in Saint Louis"
-  - "/img/wustl99.jpg": "Washington University in Saint Louis"
+  - "/img/wustl77.jpg": "Washington University in St. Louis"
+  - "/img/wustl99.jpg": "Washington University in St. Louis"
+  - "/img/fourth.jpg": "United States Court of Appeals for the Fourth Circuit"
+  - "/img/fifth.jpg": "United States Court of Appeals for the Fifth Circuit"
 ---
 
 
