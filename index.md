@@ -18,7 +18,7 @@ bigimg:
 
 # [About Me](http://www.joshuaboston.com/aboutme/)
 
-<p align="justify">Hello! My name Joshua Boston, and I'm a political science PhD candidate at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in Saint Louis</a>. My research focuses on judicial politics in the American context, though I have additional interests in American political institutions and comparative courts. Before coming to St. Louis, I earned an M.A. in political science at the University at Buffalo (SUNY), where I also earned my B.A. (SCL, ΦΒΚ).</p>
+<p align="justify">Hello! My name Joshua Boston, and I'm a political science Ph.D. candidate at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in Saint Louis</a>. My research focuses on judicial politics in the American context, though I have additional interests in American political institutions and comparative courts. Before coming to St. Louis, I earned an M.A. in political science at the University at Buffalo (SUNY), where I also earned my B.A. (SCL, ΦΒΚ).</p>
   
 # [Research Interests](http://www.joshuaboston.com/research/) 
 
