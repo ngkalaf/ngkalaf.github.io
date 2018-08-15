@@ -5,8 +5,11 @@ subtitle: University Teaching Experience
 description: Josh's work as an instructor and teaching assistant.
 use-site-title: true
 bigimg:
-  - "/img/wustl55.jpg": "WUSTL Law Library"
-  - "/img/wustl66.jpg": "WUSTL Law Library"
+  - "/img/stl4.jpg": "Washington University in St. Louis"
+  - "/img/wustl99.jpg": "Washington University in St. Louis"
+  - "/img/wustl55.jpg": "Washington University in St. Louis"
+  - "/img/fourth.jpg": "United States Court of Appeals for the Fourth Circuit"
+  - "/img/fifth.jpg": "United States Court of Appeals for the Fifth Circuit"
   - "/img/ussc1.jpg": "Supreme Court of the United States"
   - "/img/ussc2.jpg": "Supreme Court of the United States"
   - "/img/ussc3.jpg": "Supreme Court of the United States"
