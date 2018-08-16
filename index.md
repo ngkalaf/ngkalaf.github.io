@@ -23,11 +23,11 @@ bigimg:
   
 # [Research Interests](http://www.joshuaboston.com/research/) 
 
-<p align="justify">My primary research interests are related to law & courts. My dissertation studies the causes and consequences of judges' opinion writing on U.S. Circuit Courts of Appeals. Additionally, I am interested in questions regarding legal doctrine/precedent treatment, agenda setting, and judicial confirmation politics. Aside from these particular interests, I am involved in various other projects studying the American president, comparative courts, and mass opinion/polarization.</p>
+<p align="justify">My primary research interests are related to law & courts. My dissertation studies the causes and consequences of judges' opinion writing on U.S. Circuit Courts of Appeals. I use Python and Selenium to scrape judicial opinions, which I then utilize for natural language processing. Additionally, I am interested in questions regarding legal doctrine/precedent treatment, agenda setting, and judicial confirmation politics. Aside from these particular interests, I am involved in various other projects studying the American president, comparative courts, and mass opinion/polarization.</p>
   
 # [Dissertation](http://www.joshuaboston.com/dissertation/)
 
-<p align="justify">In my dissertation, I analyze judicial writing in three distinct contexts, with the overarching goal of identifying opinion writing as a fundamental element of judicial behavior akin to policy preferences. I am interested in using both new and established measures of writing characteristics to develop an overarching understanding of how judges write given certain constraints and how judges' opinions lead to particular downstream consequences.</p>
+<p align="justify">In my dissertation, I analyze judicial writing in three distinct contexts, with the overarching goal of identifying opinion writing as a fundamental element of judicial behavior akin to policy preferences. I use natural language processing and other text analysis methods to generate measures of writing characteristics. In turn, my contribution is a new understanding of how judges write given certain constraints and how judges' opinions lead to particular downstream consequences.</p>
   
 
 
