@@ -31,6 +31,6 @@ bigimg:
 
 # [Teaching](https://www.joshuaboston.com/teaching//)
   
-<p align="justify">Teaching is something that excites me, as I enjoy working with students, and I find that classroom discussions often lead to promising research questions. Across three universities, I have independently taught six introductory and advanced undergraduate courses. As a graduate instructor at the University at Buffalo (SUNY), I taught constitutional law, civil liberties, and the American presidency. While an adjunct instructor at SUNY Buffalo State College, I taught large lecture-style classes covering introductory topics in American and comparative politics. At WashU, I twice led a semester-long teaching pedagogy workshop for undergraduate teaching assistants, who were charged with leading recitation sections for Prof. Andrew Reeves' Introduction to American Politics lecture. Finally, I have TA'd for 15 different courses across public law/judicial politics, American politics, and methods.</p>
+<p align="justify">Teaching is something that excites me, as I enjoy working with students, and I find that classroom discussions often lead to promising research questions. Across three universities, I have independently taught six introductory and advanced undergraduate courses.</p>
 
 
