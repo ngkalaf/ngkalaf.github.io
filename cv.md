@@ -22,3 +22,5 @@ bigimg:
 
 <p>Please feel free to 
 <a href="mailto:jboston@wustl.edu" target="_blank">contact me</a> in case you have any questions or comments. Thanks so much!</p>
+
+ <a href="https://www.dropbox.com/s/oq6032gb90r13v6/APSAtrialcourts.pdf?dl=0" target="_blank">link</a>
