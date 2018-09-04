@@ -25,6 +25,6 @@ bigimg:
 
 # Chapter 2
 
-"Collegial Politics and Opinion Writing on the U.S. Courts of Appeals."
+"Collegial Politics and Opinion Writing on the U.S. Courts of Appeals: Dissuading Dissent through Writing Accommodations."
 
 <p align="justify">Do judges alter their opinion language to accommodate ideologically distant colleagues? Extant research on the Courts of Appeals suggests that potential whistle-blower judges can moderate circuit panel decisions. The influence of the circuit opinion author over a potentially divided panel is less clear. This paper turns focus toward the majority opinion as a strategic instrument used to bargain with ideologically distant and non-co-partisan colleagues. I develop measures of central tendency for circuit judges' opinion writing styles, from which opinion authors deviate to accommodate their colleagues. An authoring judge's deviations in opinion writing represent an opportunity to achieve a unanimous panel decision. Using a data-set of over 50,000 circuit opinions from 2000 to 2010, the hypothesis of accommodation through opinion language finds empirical support. This suggests that an opinion author's accommodation efforts might lower the time and resource costs for potential dissenters.  </p>
