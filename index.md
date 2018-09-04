@@ -19,7 +19,7 @@ bigimg:
 
 # [About Me](https://www.joshuaboston.com/aboutme/)
 
-<p align="justify">Hello! My name Joshua Boston, and I'm a political science Ph.D. candidate at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in St. Louis</a>. My research focuses on judicial politics in the American context. I have additional interests in questions that study separation of powers, the American presidency, and comparative courts. Before coming to St. Louis, I earned an M.A. in political science at the University at Buffalo (SUNY), where I also earned my B.A. (SCL, ΦΒΚ).</p>
+<p align="justify">Hello! My name Joshua Boston, and I'm a political science Ph.D. candidate at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in St. Louis</a>. My research focuses on American political institutions, with a strong emphasis on judicial politics. I have additional interests in questions that study separation of powers, the American presidency, and comparative courts. Before coming to St. Louis, I earned an M.A. in political science at the University at Buffalo (SUNY), where I also earned my B.A. (SCL, ΦΒΚ).</p>
   
 # [Research Interests](https://www.joshuaboston.com/research/) 
 
