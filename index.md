@@ -27,7 +27,7 @@ bigimg:
   
 # [Dissertation](https://www.joshuaboston.com/dissertation/)
 
-<p align="justify">In my dissertation, I analyze judicial writing in three distinct contexts, with the overarching goal of identifying the opportunities and constraints judges have in crafting their opinions. Using Python and Selenium, I have scraped over 50,000 U.S. circuit court opinions (2000-2010), which I then utilize for natural language processing and other text analysis methods to generate measures of writing characteristics. In turn, my contribution is to identify the strategic nature of judicial writing -- that is, how judges write given certain both hierarchical and horizontal constraints, and how judges' opinions lead to particular downstream consequences.</p>
+<p align="justify">In my dissertation, I analyze judicial writing in three distinct contexts, with the overarching goal of identifying the opportunities and constraints judges have in crafting their opinions. Using Python and Selenium, I have scraped over 50,000 U.S. circuit court opinions (2000-2010), which I then utilize for natural language processing and other text analysis methods to generate measures of writing characteristics. In turn, my contribution is to identify the strategic nature of judicial writing -- that is, how judges write given both hierarchical and horizontal constraints, and how judges' opinions lead to particular downstream consequences.</p>
 
 # [Teaching](https://www.joshuaboston.com/teaching//)
   
