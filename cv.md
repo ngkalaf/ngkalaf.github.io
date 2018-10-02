@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Joshua Boston
-subtitle: Curriculum Vitae
-use-site-title: true
+title: Curriculum Vitae
 ---
 
 <p>My CV is available at the following link: <a href="https://www.dropbox.com/s/7u0pqa961y8mxr6/JBoston_CV_Oct2018.pdf?dl=0" target="_blank">CV</a></p>
