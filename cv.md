@@ -13,7 +13,7 @@ bigimg:
   - "/img/ussc3.jpg": "Supreme Court of the United States"
 ---
 
-<p>My CV is available at the following link: <a href="https://www.dropbox.com/s/e5sdr8rijcf4di4/JBoston_CV_Sept2018.pdf?dl=0" target="_blank">CV</a></p>
+<p>My CV is available at the following link: <a href="https://www.dropbox.com/s/7u0pqa961y8mxr6/JBoston_CV_Oct2018.pdf?dl=0" target="_blank">CV</a></p>
 
 
 
