@@ -23,7 +23,9 @@ bigimg:
 
 # Refereed Articles
 
-Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." Conditionally accepted at *Journal of Law & Courts*. [Abstract](http://www.joshuaboston.com/abstracts/#complexity)
+Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." Accepted for publication at *Journal of Law & Courts*. [Abstract](http://www.joshuaboston.com/abstracts/#complexity)
+
+Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." Accepted for publication at *Political Science Quarterly*. [Abstract](http://www.joshuaboston.com/abstracts/#clinton)
 
 Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a>
 
@@ -34,8 +36,6 @@ Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe 
 # Working Papers
     
 Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. "Power Plus Persuasion: The Anatomy of Kennedy’s Housing Order." *Invited to revise & resubmit*. [Abstract](http://www.joshuaboston.com/abstracts/#jfk)
-
-Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." *Invited to revise & resubmit*. [Abstract](http://www.joshuaboston.com/abstracts/#clinton)
 
 Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." *Under Review*. [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
 
