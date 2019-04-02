@@ -7,7 +7,9 @@ title: Curriculum Vitae
 
 
 
-<p>Information on my conference activities is available here: <a href="https://www.dropbox.com/s/my4v02i0wc8a6tq/JBoston_conference.pdf?dl=0" target="_blank">conference participations</a></p>
+<p>Information on my conference activities, including service as a chair/discussant, is available here: <a href="https://www.dropbox.com/s/my4v02i0wc8a6tq/JBoston_conference.pdf?dl=0" target="_blank">conference participations</a></p>
+
+<p>Information on my service as an anonymous peer reviewer is available here: <a href="https://publons.com/researcher/1314637/joshua-boston" target="_blank">Publons</a></p>
 
 
 <p>Please feel free to 
