@@ -5,6 +5,9 @@ subtitle: Life outside academia
 use-site-title: true
 bigimg:
   - "img/easter2.jpg": "Boston Family -- Easter Sunday 2019"
+  - "img/bogriver.jpg": "Josh & Kaitlin -- Bog River Flow 2014"
+  - "img/gettys.jpg": "Gettysburg -- December 2013"
+  - "img/IMG-8158.jpg": "Boston Family -- Easter 2019"
 ---
 
 
