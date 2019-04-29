@@ -2,7 +2,7 @@
 layout: page
 title: Joshua Boston
 subtitle: About Josh
-description: List of articles, book chapters, working papers. Links to abstracts and Google Scholar.
+description: Life outside of academia
 use-site-title: true
 bigimg:
   - "/img/easter2.jpg": "Boston Family -- Easter Sunday 2019"
