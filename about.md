@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Joshua Boston
-subtitle: About Josh
-description: Life outside of academia
-use-site-title: true
+subtitle: Life outside of academia
+description: About Josh
+use-site-title: false
 bigimg:
   - "/img/bogriver.jpg": "Josh & Kaitlin -- Bog River Flow 2014"
   - "/img/gettys.jpg": "Gettysburg -- December 2013"
