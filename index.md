@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Joshua Boston
-subtitle: PhD Candidate, Political Science
+title: Joshua Boston, Ph.D.
+subtitle: Assistant Professor, Bowling Green State University
 use-site-title: true
 bigimg:
   - "/img/stl4.jpg": "Washington University in St. Louis"
@@ -31,6 +31,6 @@ bigimg:
 
 # [Teaching](https://www.joshuaboston.com/teaching//)
   
-<p align="justify">Teaching is something that excites me, as I enjoy working with students, and I find that classroom discussions often lead to promising research questions. Across three universities, I have independently taught six introductory and advanced undergraduate courses.</p>
+<p align="justify">Teaching is something that excites me, as I enjoy working with students, and I find that classroom discussions often lead to promising research questions both for myself and my students. I enjoy teaching introductory and advanced courses across American politics topics, with a strong focus on law and courts.</p>
 
 
