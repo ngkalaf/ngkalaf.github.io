@@ -15,6 +15,8 @@ bigimg:
   - "/img/ussc3.jpg": "Supreme Court of the United States"
 ---
 
+To schedule an appointment with Prof. Boston, please visit the following link: <a href="https://calendly.com/jboston_bgsu/meet-with-prof-boston" target="_blank">Appointment Scheduler</a></p>
+
 <p align="justify">Teaching is something that excites me, as I enjoy working with students, and I find that classroom discussions often lead to promising research questions. Across three universities, I have independently taught six introductory and advanced undergraduate courses. As a graduate instructor at the University at Buffalo (SUNY), I taught constitutional law, civil liberties, and the American presidency. While an adjunct instructor at SUNY Buffalo State College, I taught large lecture-style classes covering introductory topics in American and comparative politics. At WashU, I twice led a semester-long teaching pedagogy workshop for undergraduate teaching assistants, who were charged with leading recitation sections for Prof. Andrew Reeves' Introduction to American Politics lecture. Finally, I have TA'd for 15 different courses across public law/judicial politics, American politics, and methods. For a summary of my WashU teaching evaluations, please visit the following link: <a href="https://www.dropbox.com/s/lqf6ybb7npznq8z/JBoston_Evals_Summary.pdf?dl=0" target="_blank">Summary</a></p>
 
 ### Courses as Primary Instructor 
