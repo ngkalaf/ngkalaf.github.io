@@ -15,11 +15,14 @@ bigimg:
   - "/img/ussc3.jpg": "Supreme Court of the United States"
 ---
 
-To schedule an appointment with Prof. Boston, please visit the following link: <a href="https://calendly.com/jboston_bgsu/meet-with-prof-boston" target="_blank">Appointment Scheduler</a></p>
-
-<p align="justify">Teaching is something that excites me, as I enjoy working with students, and I find that classroom discussions often lead to promising research questions. Across three universities, I have independently taught six introductory and advanced undergraduate courses. As a graduate instructor at the University at Buffalo (SUNY), I taught constitutional law, civil liberties, and the American presidency. While an adjunct instructor at SUNY Buffalo State College, I taught large lecture-style classes covering introductory topics in American and comparative politics. At WashU, I twice led a semester-long teaching pedagogy workshop for undergraduate teaching assistants, who were charged with leading recitation sections for Prof. Andrew Reeves' Introduction to American Politics lecture. Finally, I have TA'd for 15 different courses across public law/judicial politics, American politics, and methods. For a summary of my WashU teaching evaluations, please visit the following link: <a href="https://www.dropbox.com/s/lqf6ybb7npznq8z/JBoston_Evals_Summary.pdf?dl=0" target="_blank">Summary</a></p>
+To schedule an appointment with Prof. Boston, please visit the following link: <a href="https://calendly.com/jboston_bgsu/meet-with-prof-boston" target="_blank">Appointment Scheduler</a>
 
 ### Courses as Primary Instructor 
+#### Bowling Green State University
+  * POLS 1100: American Government: Processes and Structure (Fall 2019, Spring 2020, Summer 2020)
+  * POLS 4160: Constitutional Law: Powers and Relationships (Spring 2020)
+  * POLS 4240: Supreme Court and Contemporary Issues (Fall 2019)
+
 #### Washington University in St. Louis
   * PS 419: Teaching Assistant Practicum (Fall 2015, Fall 2016)
 
@@ -29,18 +32,9 @@ To schedule an appointment with Prof. Boston, please visit the following link: <
   * PSC 306: The American Presidency (Summer 2012)
 
 #### Buffalo State College, SUNY
-* PSC 101: Introduction to Government and Politics (Spring 2013)
-* PSC 102: Introduction to American Politics (Spring 2013)
+  * PSC 101: Introduction to Government and Politics (Spring 2013)
+  * PSC 102: Introduction to American Politics (Spring 2013)
 
-
-
-### Guest Lecturer
-#### Washington University in St. Louis
-  * PS 101: Introduction to American Politics
-  * PS 3441: Defendants' Rights
-
-#### University at Buffalo, SUNY
-  * PSC 215: Law and the Political Process
   
 ### Courses as Teaching Assistant
 #### Washington University in St. Louis (links lead to TA course evaluations)
@@ -49,18 +43,6 @@ To schedule an appointment with Prof. Boston, please visit the following link: <
   * PS 3441: Defendants' Rights (Jim Spriggs) -- <a href="https://www.dropbox.com/s/8ug835y6z9hejr5/Spring2017.pdf?dl=0" target="_blank">Spring 2017</a>
   * PS 3510: Topics in American Politics: The Supreme Court (Jim Spriggs) -- <a href="https://www.dropbox.com/s/t3l7a11xxn9j8xw/Fall2014.PDF?dl=0" target="_blank">Fall 2014</a>
 
-#### University at Buffalo, SUNY
-  * Introduction to American Politics (Josh Dyck)
-  * Law and the Political Process (Stephen Halpern)
-  * Cases in Civil Liberties (Stephen Halpern)
-  * Protecting Civil Liberties (Charles Lamb)
-  * Constitutional Law (Christy Boyd)
-  * Judicial Politics (Christy Boyd)
-  * State Politics (Josh Dyck)
-  * Advanced Civil Liberties (Charles Lamb)
-  * Supreme Court Seminar (Christy Boyd)
-  * Basic Statistics for Social Science (Michelle Benson)
-  * Pre-Law Honors Seminar (Stephen Halpern)
 
 
-Please <a href="https://graduate.artsci.wustl.edu/boston/contact" target="_blank">contact me</a> for any syllabi. Unfortunately, I only have course evaluations available for my Washington University teaching assistant experience. The University at Buffalo did not collect teaching evaluations for graduate instructors during summer terms. SUNY Buffalo State College utilized paper evaluations in spring 2013, but they have recently transitioned to an online-only system. 
+Please <a href="https://graduate.artsci.wustl.edu/boston/contact" target="_blank">contact me</a> for any syllabi. For a summary of my WashU teaching evaluations, please visit the following link: <a href="https://www.dropbox.com/s/lqf6ybb7npznq8z/JBoston_Evals_Summary.pdf?dl=0" target="_blank">Summary</a>.
