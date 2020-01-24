@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Joshua Boston, Ph.D.
+title: Joshua Boston, PhD
 subtitle: Assistant Professor, Bowling Green State University
 use-site-title: true
 bigimg:
