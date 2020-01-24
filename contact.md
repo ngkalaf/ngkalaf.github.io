@@ -11,9 +11,11 @@ title: Contact Josh
 
 <p>Office phone number: 419-372-6378</p>
 
-<p>Mailing address: </p>
-<p>124 Williams Hall</p>
-<p>Bowling Green, OH 43403</p>
+<p>Mailing address:
+  
+124 Williams Hall,
+
+Bowling Green, OH 43403</p>
 
 
 <p>Office location: 
