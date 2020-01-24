@@ -12,11 +12,8 @@ title: Contact Josh
 <p>Office phone number: 419-372-6378</p>
 
 <p>Mailing address:
-  
-124 Williams Hall,
-
-Bowling Green, OH 43403</p>
+124 Williams Hall, Bowling Green, OH 43403</p>
 
 
 <p>Office location: 
-127 Williams Hall, Bowling Green State University</p>
+<a href="https://www.google.com/maps/place/Williams+Hall,+Bowling+Green,+OH+43403" target="_blank">127 Williams Hall, Bowling Green State University</a> </p>
