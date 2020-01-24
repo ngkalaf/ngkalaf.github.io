@@ -23,8 +23,8 @@ To schedule an appointment with Prof. Boston, please visit the following link: <
 
 ### Courses as Primary Instructor 
 #### Bowling Green State University
-  * POLS 1100: American Government: Processes and Structure (Fall 2019, Spring 2020, Summer 2020)
-  * POLS 4160: Constitutional Law: Powers and Relationships (Spring 2020)
+  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 1100: American Government: Processes and Structure </a> (Fall 2019, Spring 2020, Summer 2020)
+  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 4160: Constitutional Law: Powers and Relationships (Spring 2020)</a>
   * POLS 4240: Supreme Court and Contemporary Issues (Fall 2019)
 
 #### Washington University in St. Louis
