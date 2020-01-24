@@ -23,9 +23,9 @@ bigimg:
 
 # Refereed Articles
 
-Boston, Joshua. "Strategic Opinion Language on the U.S. Courts of Appeals." Accepted for publication at *Journal of Law & Courts*. [Abstract](http://www.joshuaboston.com/abstracts/#complexity)
+Boston, Joshua. 2020. "Strategic Opinion Language on the U.S. Courts of Appeals." Forthcoming in *Journal of Law & Courts*. [Abstract](http://www.joshuaboston.com/abstracts/#complexity)
 
-Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." Accepted for publication at *Political Science Quarterly*. [Abstract](http://www.joshuaboston.com/abstracts/#clinton)
+Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. 2019. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." *Political Science Quarterly*.  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/polq.12901" target="_blank">Article</a>
 
 Lamb, Charles M., Joshua Boston & Jacob R. Neiheisel. 2019. "Power Plus Persuasion: The Anatomy of Kennedy’s Housing Order." <i>Congress & the Presidency</i>. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">Article</a>
 
