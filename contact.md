@@ -9,7 +9,7 @@ title: Contact Josh
 
 <p>To schedule an appointment with Prof. Boston, please visit the following link: <a href="https://calendly.com/jboston_bgsu/meet-with-prof-boston" target="_blank">Appointment Scheduler</a> </p>
 
-<p>Office phone number: <a href="tel:419-372-6378">419-372-6378</a> </p>
+<p>Office phone number: <a href="tel:+1419-372-6378">419-372-6378</a> </p>
 
 <p>Mailing address:
 124 Williams Hall, Bowling Green, OH 43403</p>
