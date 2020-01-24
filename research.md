@@ -39,13 +39,15 @@ Stein, Robert, Christopher B. Mann, Charles Stewart, Zachary Birenbaum, Anson Fu
 
 Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe Singer, Charles Stewart, Michael C. Herron, Emily Beaulieu, Frederick Boehmke, Joshua Boston, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Matthew R. Miles, David Miller, Lindsay Nielson, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Robert Stein, Rachel VanSickle-Ward, Abby K. Wood & Julie Wronski. 2018. "Pedagogical Value of Polling-Place Observation by Students." <i>PS: Political Science & Politics</i>. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">Article</a>
 
-# Working Papers
+# Working Papers & Projects
 
 Boston, Joshua. "Collegial Politics and Opinion Writing on the U.S. Courts of Appeals: Dissuading Dissent through Writing Accommodations."
 
 Boston, Joshua, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">David Carlson</a> & <a href="http://jbduckmayr.com/" target="_blank">JB Duck-Mayr</a>. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)
 
-Boston, Joshua, Jonathan Homola, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, Michelle Torres, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
+Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Friends in High Places: How Amici Capitalize on Supreme Court Participation."
+
+<a href="https://und.edu/directory/benjamin.kassow" target="_blank">Kassow, Benjamin</a>, Joshua Boston, <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="https://sites.wustl.edu/drmiller/" target="_blank">David Miller</a>. "The Asymmetric Impact of Political Scandal on Public Perceptions of Judicial Nominees."
 
 Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?" [Abstract](http://www.joshuaboston.com/abstracts/#patent)
 
@@ -53,7 +55,9 @@ Boston, Joshua. "Strategic Deference by the European Court of Justice: Understan
 
 Boston, Joshua, <a href="https://graduate.artsci.wustl.edu/mattchick" target="_blank">Matt Chick</a> & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Supreme Court Agenda Setting and Precedent Influence."
 
-Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences."
+Boston, Joshua & <a href="http://www.bernardosilveira.net/" target="_blank">Bernardo S. Silveira</a>. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences."
+
+Boston, Joshua, <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="https://smtorres.org/" target="_blank">Michelle Torres</a>, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
 
 # Coauthors
 
