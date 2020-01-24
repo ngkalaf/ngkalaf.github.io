@@ -29,7 +29,7 @@ Boston, Joshua. 2020. "Strategic Opinion Language on the U.S. Courts of Appeals.
 
 <a href="https://polsci.buffalo.edu/facultystaff/lamb/" target="_blank">Lamb, Charles M.</a>, Joshua Boston & <a href="https://polsci.buffalo.edu/facultystaff/neiheisel/" target="_blank">Jacob R. Neiheisel</a>. 2019. "Power Plus Persuasion: The Anatomy of Kennedy’s Housing Order." <i>Congress & the Presidency</i>. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">Article</a>
 
-Boston, Joshua, Jonathan Homola, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, Michelle Torres, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a>
+Boston, Joshua, <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="https://smtorres.org/" target="_blank">Michelle Torres</a>, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a>
 
 # Other Publications
 
@@ -43,7 +43,7 @@ Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe 
 
 Boston, Joshua. "Collegial Politics and Opinion Writing on the U.S. Courts of Appeals: Dissuading Dissent through Writing Accommodations."
 
-Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)
+Boston, Joshua, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">David Carlson</a> & <a href="http://jbduckmayr.com/" target="_blank">JB Duck-Mayr</a>. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)
 
 Boston, Joshua, Jonathan Homola, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, Michelle Torres, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
 
@@ -51,18 +51,12 @@ Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions:
 
 Boston, Joshua. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." [Abstract](http://www.joshuaboston.com/abstracts/#deference)
 
-Boston, Joshua, Matt Chick & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Supreme Court Agenda Setting and Precedent Influence."
+Boston, Joshua, <a href="https://graduate.artsci.wustl.edu/mattchick" target="_blank">Matt Chick</a> & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Supreme Court Agenda Setting and Precedent Influence."
 
 Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences."
 
 # Coauthors
 
-<p align="justify">Research is a collaborative process. As such, all of my work is made better by my colleagues and co-authors. Please take some time to check out the awesome work being done in the BGSU Political Science Department, and by my collaborators listed in the citations above. I hope you will take some time to check out some of their websites, which I am including here. Please check out the work being done by these awesome scholars:  
-  <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, 
-  <a href="https://smtorres.org/" target="_blank">S. Michelle Torres Pacheco</a>, 
-  <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">Dave Carlson</a>, 
-  <a href="https://graduate.artsci.wustl.edu/mattchick" target="_blank">Matt Chick</a>, 
-  <a href="http://jbduckmayr.com/" target="_blank">JBrandon Duck-Mayr</a>,
-  <a href="https://home.nicholaswaterbury.com/" target="_blank">Nick Waterbury</a>.</p>
+<p align="justify">Research is a collaborative process. As such, all of my work is made better by my colleagues and co-authors. Please take some time to check out the awesome work being done in the <a href="https://www.bgsu.edu/arts-and-sciences/political-science/faculty-and-staff-directory.html" target="_blank">BGSU Political Science Department</a> and by my collaborators listed in the citations above.</p> 
 
 <p>Replication files for my published works are available upon request. Please feel free to email me: <a href="mailto:jboston@wustl.edu" target="_blank">jboston@wustl.edu</a></p>
