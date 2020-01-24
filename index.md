@@ -11,6 +11,10 @@ bigimg:
   - "/img/fifth.jpg": "United States Court of Appeals for the Fifth Circuit"
   - "/img/ussc1.jpg": "Supreme Court of the United States"
   - "/img/ussc3.jpg": "Supreme Court of the United States"
+  - "/img/williams1.jpg": "Bowling Green State University"
+  - "/img/williams2.jpg": "Bowling Green State University"
+  - "/img/univhall1.jpg": "Bowling Green State University"
+  - "/img/wood.jpg": "Wood County (OH) Courthouse"
 ---
 
 
