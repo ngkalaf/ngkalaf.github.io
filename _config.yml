@@ -24,9 +24,9 @@ description: WUSTL PhD Candidate, Political Science
 # List of links in the navigation bar
 navbar-links:
   Curriculum Vitae: "cv"
-  Research: "research"
-  Dissertation: "dissertation"
   Teaching: "teaching"
+  Research: "research"
+  #Dissertation: "dissertation"
   About Me: "about"
   Contact Me: "contact"
   #Professional Experience:
@@ -63,7 +63,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Joshua Boston
-  email: "jktboston@gmail.com"
+  email: "jboston@bgsu.edu"
   facebook: jktboston  # eg. daattali
   github: jktboston    # eg. daattali
   twitter: jktboston   # eg. daattali
@@ -77,7 +77,7 @@ author:
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: +15856138325   # eg. +14159998888
+  telephone: +14193726378   # eg. +14159998888
   steam: yourname     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
@@ -99,7 +99,7 @@ footer-links-active:
   instagram: false
   youtube: false
   spotify: false
-  telephone: false
+  telephone: true
   steam: false
   twitch: false
   yelp: false
