@@ -59,4 +59,4 @@ Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How S
 
 <p align="justify">Research is a collaborative process. As such, all of my work is made better by my colleagues and co-authors. Please take some time to check out the awesome work being done in the <a href="https://www.bgsu.edu/arts-and-sciences/political-science/faculty-and-staff-directory.html" target="_blank">BGSU Political Science Department</a> and by my collaborators listed in the citations above.</p> 
 
-<p>Replication files for my published works are available upon request. Please feel free to email me: <a href="mailto:jboston@wustl.edu" target="_blank">jboston@wustl.edu</a></p>
+<p>Replication files for my published works are available upon request. Please feel free to email me: <a href="mailto:jboston@bgsu.edu" target="_blank">jboston@bgsu.edu</a></p>
