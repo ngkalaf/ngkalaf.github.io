@@ -25,11 +25,11 @@ bigimg:
 
 Boston, Joshua. 2020. "Strategic Opinion Language on the U.S. Courts of Appeals." Forthcoming in *Journal of Law & Courts*. [Abstract](http://www.joshuaboston.com/abstracts/#complexity)
 
-Neiheisel, Jacob R., Charles M. Lamb & Joshua Boston. 2019. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." *Political Science Quarterly*.  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/polq.12901" target="_blank">Article</a>
+<a href="https://polsci.buffalo.edu/facultystaff/neiheisel/" target="_blank">Neiheisel, Jacob R.</a>, <a href="https://polsci.buffalo.edu/facultystaff/lamb/" target="_blank">Charles M. Lamb</a> & Joshua Boston. 2019. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." *Political Science Quarterly*.  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/polq.12901" target="_blank">Article</a>
 
-Lamb, Charles M., Joshua Boston & Jacob R. Neiheisel. 2019. "Power Plus Persuasion: The Anatomy of Kennedy’s Housing Order." <i>Congress & the Presidency</i>. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">Article</a>
+<a href="https://polsci.buffalo.edu/facultystaff/lamb/" target="_blank">Lamb, Charles M.</a>, Joshua Boston & <a href="https://polsci.buffalo.edu/facultystaff/neiheisel/" target="_blank">Jacob R. Neiheisel</a>. 2019. "Power Plus Persuasion: The Anatomy of Kennedy’s Housing Order." <i>Congress & the Presidency</i>. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">Article</a>
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a>
+Boston, Joshua, Jonathan Homola, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, Michelle Torres, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a>
 
 # Other Publications
 
@@ -45,18 +45,24 @@ Boston, Joshua. "Collegial Politics and Opinion Writing on the U.S. Courts of Ap
 
 Boston, Joshua, David Carlson & JB Duck-Mayr. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres, & Patrick Tucker. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
+Boston, Joshua, Jonathan Homola, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, Michelle Torres, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
 
 Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?" [Abstract](http://www.joshuaboston.com/abstracts/#patent)
 
 Boston, Joshua. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." [Abstract](http://www.joshuaboston.com/abstracts/#deference)
 
-Boston, Joshua, Matt Chick & Nicholas Waterbury. "Supreme Court Agenda Setting and Precedent Influence."
+Boston, Joshua, Matt Chick & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Supreme Court Agenda Setting and Precedent Influence."
 
 Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences."
 
 # Coauthors
 
-<p align="justify">All of my research -- including my dissertation -- is made better by my colleagues and co-authors. I hope you will take some time to check out some of their websites, which I am including here. I am currently working on research projects with <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="http://polsci.buffalo.edu/facultystaff/lamb/" target="_blank">Charles Lamb</a>, <a href="http://polsci.buffalo.edu/facultystaff/neiheisel/" target="_blank">Jacob Neiheisel</a>, <a href="http://www.patricktucker.org/" target="_blank">Patrick Tucker</a>, <a href="http://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="http://smtorres.org/" target="_blank">S. Michelle Torres Pacheco</a>, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">Dave Carlson</a>, <a href="https://graduate.artsci.wustl.edu/mattchick" target="_blank">Matt Chick</a>, <a href="http://jbduckmayr.com/" target="_blank">JBrandon Duck-Mayr</a>, and <a href="https://polisci.wustl.edu/faculty/nicholas-waterbury" target="_blank">Nick Waterbury</a>.</p>
+<p align="justify">Research is a collaborative process. As such, all of my work is made better by my colleagues and co-authors. Please take some time to check out the awesome work being done in the BGSU Political Science Department, and by my collaborators listed in the citations above. I hope you will take some time to check out some of their websites, which I am including here. Please check out the work being done by these awesome scholars:  
+  <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, 
+  <a href="https://smtorres.org/" target="_blank">S. Michelle Torres Pacheco</a>, 
+  <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">Dave Carlson</a>, 
+  <a href="https://graduate.artsci.wustl.edu/mattchick" target="_blank">Matt Chick</a>, 
+  <a href="http://jbduckmayr.com/" target="_blank">JBrandon Duck-Mayr</a>,
+  <a href="https://home.nicholaswaterbury.com/" target="_blank">Nick Waterbury</a>.</p>
 
 <p>Replication files for my published works are available upon request. Please feel free to email me: <a href="mailto:jboston@wustl.edu" target="_blank">jboston@wustl.edu</a></p>
