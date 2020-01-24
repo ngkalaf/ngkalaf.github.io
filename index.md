@@ -14,7 +14,7 @@ bigimg:
 ---
 
 
-<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/2018-04-16 18.19.26 small.jpg"></p>
+<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/IMG_4366 2.JPG"></p>
 <p style="margin-top: 20px;"> </p>
 
 # [About Me](https://www.joshuaboston.com/aboutme/)
