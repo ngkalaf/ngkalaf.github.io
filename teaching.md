@@ -13,6 +13,10 @@ bigimg:
   - "/img/ussc1.jpg": "Supreme Court of the United States"
   - "/img/ussc2.jpg": "Supreme Court of the United States"
   - "/img/ussc3.jpg": "Supreme Court of the United States"
+  - "/img/williams1.jpg": "Bowling Green State University"
+  - "/img/williams2.jpg": "Bowling Green State University"
+  - "/img/univhall1.jpg": "Bowling Green State University"
+  - "/img/wood.jpg": "Wood County (OH) Courthouse"
 ---
 
 To schedule an appointment with Prof. Boston, please visit the following link: <a href="https://calendly.com/jboston_bgsu/meet-with-prof-boston" target="_blank">Appointment Scheduler</a>
