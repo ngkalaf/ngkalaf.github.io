@@ -23,7 +23,7 @@ bigimg:
 
 # Refereed Articles
 
-Boston, Joshua. 2020. "Strategic Opinion Language on the U.S. Courts of Appeals." Forthcoming in *Journal of Law & Courts*. [Abstract](http://www.joshuaboston.com/abstracts/#complexity)
+Boston, Joshua. 2020. "Strategic Opinion Language on the U.S. Courts of Appeals." *Journal of Law & Courts*. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">Article</a>
 
 <a href="https://polsci.buffalo.edu/facultystaff/neiheisel/" target="_blank">Neiheisel, Jacob R.</a>, <a href="https://polsci.buffalo.edu/facultystaff/lamb/" target="_blank">Charles M. Lamb</a> & Joshua Boston. 2019. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." *Political Science Quarterly*.  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/polq.12901" target="_blank">Article</a>
 
