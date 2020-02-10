@@ -40,8 +40,8 @@ To schedule an appointment with me, please visit the following link: <a href="ht
   * PSC 102: Introduction to American Politics (Spring 2013)
   
 ### Professional Development
-<p><img align="left" style="padding: 0 15px; width: 20%; height: 20%" src="img/TandLcertificatebadge2019.jpg"></p>
-<p style="margin-top: 20px;"> </p>
+<p><img align="left" style="padding: 0 15px; width: 20%; height: 20%" src="img/TandLcertificatebadge20192.jpg"></p>
+<p style="margin-top: 10px;"> </p>
 
 During the 2019-2020 academic year, I completed the BGSU Teaching and Learning Certificate Program as part of the Center for Faculty Excellence. Across a series of professional development workshops, ranging in topic from inclusive pedagogy to active learning strategies, the program provided me and other faculty member with many <a href="https://www.bgsu.edu/center-for-faculty-excellence/get-certified/bgsu-teaching-and-learning-certificate-program.html" target="_blank">"opportunities [...] to explore current, innovative, and effective teaching strategies that support student success.''</a> 
 
