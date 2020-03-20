@@ -19,7 +19,7 @@ bigimg:
   - "/img/wood.jpg": "Wood County (OH) Courthouse"
 ---
 
-During BGSU's remote learning period (spring semester 2020), students need to make all appointments for virtual meetings with Prof. Boston via <a href="mailto:jboston@bgsu.edu" target="_blank">email</a>
+During BGSU's remote learning period (spring semester 2020), students need to make all appointments for virtual meetings with Prof. Boston via <a href="mailto:jboston@bgsu.edu" target="_blank">email</a>.
 
 ### Courses
 #### Bowling Green State University
