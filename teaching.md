@@ -25,9 +25,11 @@ If you cannot make it to office hours or you need to have a more detailed meetin
 
 ### Courses
 #### Bowling Green State University
-  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 1100: American Government: Processes and Structure </a> (Fall 2019, Spring 2020, Summer 2020)
-  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 4160: Constitutional Law: Powers and Relationships (Spring 2020)</a>
+  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 1100: American Government: Processes and Structure </a> (Fall 2019, Spring 2020, Summer 2020, Fall 2020)
+  * POLS 4160: Constitutional Law: Powers and Relationships (Spring 2020)
+  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 4260: Law & Society--Undergraduate (Fall 2020)</a>
   * POLS 4240: Supreme Court and Contemporary Issues (Fall 2019)
+  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 5260: Law & Society--Graduate (Fall 2020)</a>
 
 #### Washington University in St. Louis
   * PS 419: Teaching Assistant Practicum (Fall 2015, Fall 2016)
