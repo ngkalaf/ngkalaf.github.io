@@ -19,7 +19,9 @@ bigimg:
   - "/img/wood.jpg": "Wood County (OH) Courthouse"
 ---
 
-During BGSU's remote learning period (spring semester 2020), students need to make all appointments for virtual meetings with Prof. Boston via <a href="mailto:jboston@bgsu.edu" target="_blank">email</a>.
+During the Fall 2020 semester, Prof. Boston will have Zoom office hours on Mondays & Wednesdays from 12:30 p.m. to 1:30 p.m. The recurring link to Prof. Boston's office hours is available on Canvas. 
+
+If you cannot make it to office hours or you need to have a more detailed meeting, you can schedule it here: <a href="https://calendly.com/jboston_bgsu/meet-with-prof-boston" target="_blank"> Meeting Scheduler </a>
 
 ### Courses
 #### Bowling Green State University
