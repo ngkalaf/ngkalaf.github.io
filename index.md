@@ -18,10 +18,10 @@ bigimg:
 ---
 
 
-<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/IMG_4366 2.JPG"></p>
+<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/IMG_5355.jpg"></p>
 <p style="margin-top: 20px;"> </p>
 
-# [About Me](https://www.joshuaboston.com/aboutme/)
+# [About Me](https://www.joshuaboston.com/cv/)
 
 <p align="justify">My name Joshua Boston, and I am an assistant professor in the Bowling Green State University political science department. My research focuses on American political institutions, with a strong emphasis on judicial politics. I have additional interests in questions that study separation of powers, the American presidency, and comparative courts. I earned my Ph.D. in political science at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in St. Louis</a>. Previously, I attended the University at Buffalo (SUNY) where I earned an M.A. in political science and B.A. in legal studies (<i>summa cum laude</i>, &Phi;&Beta;&Kappa;).</p>
   
