@@ -3,6 +3,9 @@ layout: page
 title: Curriculum Vitae
 ---
 
+<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/IMG_4366 2.JPG"></p>
+<p style="margin-top: 20px;"> </p>
+
 <p>My CV is available at the following link: <a href="https://www.dropbox.com/s/0p502fm2vjpveij/JBoston_CV.pdf?dl=0">CV</a></p>
 
 
