@@ -16,4 +16,4 @@ title: Contact Josh
 
 
 <p>Office location: 
-<a href="https://www.google.com/maps/place/Williams+Hall,+Bowling+Green,+OH+43403" target="_blank">127 Williams Hall, Bowling Green State University</a> </p>
+<a href="https://www.google.com/maps/place/Williams+Hall,+Bowling+Green,+OH+43403" target="_blank">122 Williams Hall, Bowling Green State University</a> </p>
