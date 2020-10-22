@@ -22,7 +22,7 @@ Boston, Joshua. <a href="https://www.bgsu.edu/news/2020/10/joshua-boston-on-us-s
 
 # Media Interviews & Appearances
 
-<a href="https://bgindependentmedia.org/bgsu-professor-reflects-on-ruth-bader-ginsburgs-legacy-the-political-jockeying-over-selecting-a-new-justice/"target="_blank"><i>BG Independent News</i></a> "BGSU professor reflects on Ruth Bader Ginsburg’s legacy & the political jockeying over selecting a new justice."
+<a href="https://bgindependentmedia.org/bgsu-professor-reflects-on-ruth-bader-ginsburgs-legacy-the-political-jockeying-over-selecting-a-new-justice" target="_blank"><i>BG Independent News</i></a> "BGSU professor reflects on Ruth Bader Ginsburg’s legacy & the political jockeying over selecting a new justice."
 
 <a href="https://www.wtol.com/article/news/bgsu-students-host-debate-in-response-to-first-presidential-debate/512-745236ca-1424-4371-b2e1-cd8a408ea890" target="_blank">WTOL 11 (Wednesday, September 30, 2020)</a> "BGSU students host debate following Tuesday's first presidential match-up."
 
