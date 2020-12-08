@@ -22,11 +22,20 @@ Boston, Joshua. <a href="https://www.bgsu.edu/news/2020/10/joshua-boston-on-us-s
 
 # Media Interviews & Appearances
 
-<a href="https://bgindependentmedia.org/bgsu-professor-reflects-on-ruth-bader-ginsburgs-legacy-the-political-jockeying-over-selecting-a-new-justice" target="_blank"><i>BG Independent News</i> (September 19, 2020)</a> "BGSU professor reflects on Ruth Bader Ginsburg’s legacy & the political jockeying over selecting a new justice."
+<a href="https://www.wtol.com/article/news/local-experts-weigh-in-on-key-things-left-to-learn-in-the-presidential-race/512-1db6f351-3e03-4a96-9bcb-83f6971b9efd" target="_blank">WTOL 11 (November 4, 2020)</a> "Local expert weighs in on key things left to learn in the presidential race."
+<ul>
+<li> <a href="https://twitter.com/AmySteigerwald/status/1324062164429139968?s=20" target="_blank">Explanation of bias in polling with WTOL's Amy Steigerwald.</a> </li>
+</ul>
+
+<a href="https://www.wtol.com/article/news/bgsu-students-host-debate-in-response-to-first-presidential-debate/512-745236ca-1424-4371-b2e1-cd8a408ea890" target="_blank">WTOL 11 (September 30, 2020)</a> "BGSU students host debate following Tuesday's first presidential match-up."
 
 
 <a href="https://www.youtube.com/watch?v=4DQHqDH6PSE" target="_blank">BG24 Newscast (September 29, 2020)</a> <a href="https://www.bgfalconmedia.com/bg24/bg24-newscast-9-29-2020/video_d12c009a-02cd-11eb-b074-c761dc48f637.html">"Gabe Wagner reports on the legacy of Ruth Bader Ginsburg."</a>
 
-<a href="https://www.wtol.com/article/news/bgsu-students-host-debate-in-response-to-first-presidential-debate/512-745236ca-1424-4371-b2e1-cd8a408ea890" target="_blank">WTOL 11 (September 30, 2020)</a> "BGSU students host debate following Tuesday's first presidential match-up."
+<a href="https://bgindependentmedia.org/bgsu-professor-reflects-on-ruth-bader-ginsburgs-legacy-the-political-jockeying-over-selecting-a-new-justice" target="_blank"><i>BG Independent News</i> (September 19, 2020)</a> "BGSU professor reflects on Ruth Bader Ginsburg’s legacy & the political jockeying over selecting a new justice."
+
+
+
+
 
 
