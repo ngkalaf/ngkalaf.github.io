@@ -24,7 +24,7 @@ Boston, Joshua. <a href="https://www.bgsu.edu/news/2020/10/joshua-boston-on-us-s
 
 <a href="https://www.wtol.com/article/news/local-experts-weigh-in-on-key-things-left-to-learn-in-the-presidential-race/512-1db6f351-3e03-4a96-9bcb-83f6971b9efd" target="_blank">WTOL 11 (November 4, 2020)</a> "Local expert weighs in on key things left to learn in the presidential race."
 <ul>
-<li> <a href="https://twitter.com/AmySteigerwald/status/1324062164429139968?s=20" target="_blank">Explanation of bias in polling with WTOL's Amy Steigerwald.</a> </li>
+<li> <a href="https://twitter.com/AmySteigerwald/status/1324062164429139968?s=20" target="_blank">Explanation of polling bias and error with WTOL's Amy Steigerwald.</a> </li>
 </ul>
 
 <a href="https://www.wtol.com/article/news/bgsu-students-host-debate-in-response-to-first-presidential-debate/512-745236ca-1424-4371-b2e1-cd8a408ea890" target="_blank">WTOL 11 (September 30, 2020)</a> "BGSU students host debate following Tuesday's first presidential match-up."
