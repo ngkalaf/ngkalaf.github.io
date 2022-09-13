@@ -3,14 +3,14 @@ layout: page
 title: Curriculum Vitae
 ---
 
-<p>My CV is available at the following link: <a href="https://www.dropbox.com/s/0p502fm2vjpveij/JBoston_CV.pdf?dl=0">CV</a></p>
+<p>My CV is available at the following link: <a href="https://www.dropbox.com/s/eflzu6h9udy6x5c/Boston_CV_sept2022.pdf?dl=0">CV</a></p>
 
 
 
 <p>Information on my conference activities, including service as a chair/discussant, is available here: <a href="https://www.dropbox.com/s/my4v02i0wc8a6tq/JBoston_conference.pdf?dl=0" target="_blank">conference participations</a></p>
 
-<p>Information on my service as an anonymous peer reviewer is available here: <a href="https://publons.com/researcher/1314637/joshua-boston" target="_blank">Publons</a></p>
+<p>Information on my service as an anonymous peer reviewer is available here: <a href="https://www.webofscience.com/wos/author/record/1441944" target="_blank">Publons</a></p>
 
 
 <p>Please feel free to 
-<a href="mailto:jboston@wustl.edu" target="_blank">contact me</a> in case you have any questions or comments. Thanks so much!</p>
+<a href="mailto:jboston@bgsu.edu" target="_blank">contact me</a> in case you have any questions or comments. Thanks so much!</p>
