@@ -53,21 +53,22 @@ bigimg:
 
 
 <ul style="list-style-type:circle;">
+  
+  <li>Boston, Joshua & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher Krewson</a>. "Public Approval of the Supreme Court and Its Implications for Legitimacy." <em>Invited to revise & resubmit.</em></li>
+  
+  
+<li>Joshua Boston, <a href="https://und.edu/directory/benjamin.kassow" target="_blank">Benjamin Kassow</a>,  <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="http://www.davidryanmiller.com/" target="_blank">David Miller</a>. "Your Honor's Misdeeds: The Consequences of Judicial Scandal on Specific and Diffuse Support." <em>Invited to revise & resubmit.</em></li>
+  
+<li>Boston, Joshua, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">David Carlson</a>, <a href="http://jbduckmayr.com/" target="_blank">JB Duck-Mayr</a>, & <a href="https://gregsasso.me/" target="_blank">Greg Sasso</a>. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." <em>Invited to revise & resubmit.</em> </li>
+  
 <li>Boston, Joshua. "Collegial Politics and Opinion Writing on the U.S. Courts of Appeals: Dissuading Dissent through Writing Accommodations."</li>
-
-<li>Boston, Joshua, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">David Carlson</a> & <a href="http://jbduckmayr.com/" target="_blank">JB Duck-Mayr</a>. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)</li>
 
 <li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Friends in High Places: How Amici Capitalize on Supreme Court Participation."</li>
 
-<li><a href="https://und.edu/directory/benjamin.kassow" target="_blank">Kassow, Benjamin</a>, Joshua Boston, <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="https://sites.wustl.edu/drmiller/" target="_blank">David Miller</a>. "The Asymmetric Impact of Political Scandal on Public Perceptions of Judicial Nominees."</li>
-
 <li>Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?" [Abstract](http://www.joshuaboston.com/abstracts/#patent)</li>
 
-<li>Boston, Joshua. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." [Abstract](http://www.joshuaboston.com/abstracts/#deference)</li>
 
-<li>Boston, Joshua, <a href="https://graduate.artsci.wustl.edu/mattchick" target="_blank">Matt Chick</a> & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Supreme Court Agenda Setting and Precedent Influence."</li>
-
-<li>Boston, Joshua & <a href="http://www.bernardosilveira.net/" target="_blank">Bernardo S. Silveira</a>. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences."</li>
+<li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Status Quo Reversion Points in Supreme Court Agenda Setting."</li>
 
 <li>Boston, Joshua, <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="https://smtorres.org/" target="_blank">Michelle Torres</a>, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)</li>
 </ul>
