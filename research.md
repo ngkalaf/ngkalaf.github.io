@@ -23,7 +23,7 @@ bigimg:
 <p>My Google Scholar profile is available <a href="https://scholar.google.com/citations?user=hKBsYfwAAAAJ&hl" target="_blank">here</a>.</p>
 
 
-#### Refereed Articles
+<p><b>Refereed Articles</b></p>
 
 <ul style="list-style-type:circle;">
 <li>Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences." Conditionally accepted at <em>Journal of Law & Courts</em>.</li>
@@ -41,13 +41,13 @@ bigimg:
 <li>Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, ... , Joshua Boston, ... , et al. 2018. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">"Pedagogical Value of Polling-Place Observation by Students."</a> <em>PS: Political Science & Politics</em>, 51(4), 831 - 837.</li>
 </ul>
 
-#### Book Chapters
+<p><b>Book Chapters</p></b>
 
 Boston, Joshua & Dino Hadzic. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." In <em>Handbook of Law and Political Systems</em>. Robert Howard, Kirk Randazzo, & Rebecca Reid (Eds.). Elgar Press, forthcoming.
 
 Stein, Robert, Christopher B. Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. "Polling Place Practices." In <a href="https://link.springer.com/book/10.1007%2F978-3-030-14947-5" target="_blank"><em>The Future of Election Administration</em></a>. Kathleen Hale & Bridgett A. King (Eds.). Palgrave Macmillan, 2020.
 
-# Working Papers & Projects
+<p><b>Working Papers & Projects</p></b>
 
 Boston, Joshua. "Collegial Politics and Opinion Writing on the U.S. Courts of Appeals: Dissuading Dissent through Writing Accommodations."
 
@@ -67,7 +67,7 @@ Boston, Joshua & <a href="http://www.bernardosilveira.net/" target="_blank">Bern
 
 Boston, Joshua, <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="https://smtorres.org/" target="_blank">Michelle Torres</a>, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
 
-# Coauthors
+<p><b>Coauthors</p></b>
 
 <p align="justify">Research is a collaborative process. As such, all of my work is made better by my colleagues and co-authors. Please take some time to check out the awesome work being done in the <a href="https://www.bgsu.edu/arts-and-sciences/political-science/faculty-and-staff-directory.html" target="_blank">BGSU Political Science Department</a> and by my collaborators listed in the citations above.</p> 
 
