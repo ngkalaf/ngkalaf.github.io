@@ -61,15 +61,13 @@ bigimg:
   
 <li>Boston, Joshua, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">David Carlson</a>, <a href="http://jbduckmayr.com/" target="_blank">JB Duck-Mayr</a>, & <a href="https://gregsasso.me/" target="_blank">Greg Sasso</a>. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." <em>Invited to revise & resubmit.</em> </li>
   
+  <li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Status Quo Reversion Points in Supreme Court Agenda Setting."</li>
+  
 <li>Boston, Joshua. "Collegial Politics and Opinion Writing on the U.S. Courts of Appeals: Dissuading Dissent through Writing Accommodations."</li>
 
-<li>Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"</li>
-
-<li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Status Quo Reversion Points in Supreme Court Agenda Setting."</li>
-  
   <li>Boston, Joshua, Patrick Rickert, James F. Spriggs II, & Nicholas Waterbury. "The Curious Case of the Migrating Seat: Understanding the Role of Senate Norms in Confirming Judges on the U.S. Courts of Appeals."</li>
-
-<li>Boston, Joshua, <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="https://smtorres.org/" target="_blank">Michelle Torres</a>, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)</li>
+  
+<li>Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"</li>
 </ul>
 
 
