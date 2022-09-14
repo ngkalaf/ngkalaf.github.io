@@ -65,7 +65,6 @@ bigimg:
 
 <li>Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"</li>
 
-
 <li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Status Quo Reversion Points in Supreme Court Agenda Setting."</li>
   
   <li>Boston, Joshua, Patrick Rickert, James F. Spriggs II, & Nicholas Waterbury. "The Curious Case of the Migrating Seat: Understanding the Role of Senate Norms in Confirming Judges on the U.S. Courts of Appeals."</li>
@@ -89,8 +88,7 @@ bigimg:
 <li>Boston, Joshua, Tristen Bowles, Zachary J. Noesen, Judith Ramos, & Nicholas Waterbury. "Religious Identity and Supreme Court Support: The Effect of Heuristics in Legitimacy Evaluations."</li>
 
 <li>Applin, Lydia, Joshua Boston, & Christopher Krewson. "Understanding the Effect of Media Consumption on Supreme Court Approval."</li>
-  
-    <li>
+
   
 </ul>
   
