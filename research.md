@@ -14,30 +14,34 @@ bigimg:
   - "/img/ussc3.jpg": "Supreme Court of the United States"
 ---
 
-<p align="justify"> Prof. Boston researches and teaches classes on political institutions. His research---centering on questions of judicial politics---examines (1) the internal politics of courts, (2) how courts fit into separation of powers systems, and (3) the effect of legal institutions on the public. Prof. Boston's published work can be found in Journal of Law & Courts, Political Science Quarterly, Congress & the Presidency, and Public Opinion Quarterly.</p>
+<p align="justify"> My research centers on American politics, with particular focus on judicial institutions, law and society, and constitutional law. Even more, I am passionate about investigating the behavioral implications of judicial and legal institutions. Outside of American politics, I maintain an interest in comparative judicial behavior, with particular attention toward the opportunities and constraint national high courts and international courts face in judicial decision making. Across my research agenda, I have published in high-quality, high-impact journals including <em>Public Opinion Quarterly</em>, the <em>Journal of Law & Courts</em>, <em>Political Science Quarterly</em>, <em>Congress & the Presidency</em>, among other outlets.
 
+<p>My curriculum vitae is available <a href="https://www.dropbox.com/s/g9cib9ordw5psed/Boston_CV_sept2022.pdf?dl=0" target="_blank">here</a>.</p>
 
-<p>My curriculum vitae is available here: <a href="https://www.dropbox.com/s/g9cib9ordw5psed/Boston_CV_sept2022.pdf?dl=0" target="_blank">CV</a></p>
+<p>My conference presentations are available <a href="https://www.dropbox.com/s/pbmy8zpvv8o61og/Boston_Conf_sept2022.pdf?dl=0" target="_blank">here</a>.</p>
 
-<p>My Google Scholar profile is available at the following link: <a href="https://scholar.google.com/citations?user=hKBsYfwAAAAJ&hl" target="_blank">Google Scholar</a></p>
+<p>My Google Scholar profile is available <a href="https://scholar.google.com/citations?user=hKBsYfwAAAAJ&hl" target="_blank">here</a>.</p>
 
 # Refereed Articles
 
-Boston, Joshua. 2020. "Strategic Opinion Language on the U.S. Courts of Appeals." *Journal of Law & Courts*. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">Article</a>
+Boston, Joshua & Bernardo S. Silveira. ``The Electoral Connection in Court: How Sentencing Responds to Voter Preferences.'' Conditionally accepted at <em>Journal of Law & Courts</em>.
 
-<a href="https://polsci.buffalo.edu/facultystaff/neiheisel/" target="_blank">Neiheisel, Jacob R.</a>, <a href="https://polsci.buffalo.edu/facultystaff/lamb/" target="_blank">Charles M. Lamb</a> & Joshua Boston. 2019. "Presidential Rhetoric and Bureaucratic Enforcement: Evidence from Bill Clinton's Administration." *Political Science Quarterly*.  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/polq.12901" target="_blank">Article</a>
+Boston, Joshua. 2020. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">``Strategic Opinion Language on the U.S. Courts of Appeals.''</a> <em>Journal of Law and Courts</em>, 8(1), 1-26.
+    
+Stein, Robert M., Christopher Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. 2020. <a href="https://journals.sagepub.com/doi/full/10.1177/1065912919832374" target="_blank">``Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study.''</a> <em>Political Research Quarterly</em>, 73(2), 439-453.
+    
+Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.psqonline.org/article.cfm?IDArticle=19913" target="_blank">``Presidential Rhetoric and Bureaucratic Enforcement: The Clinton Administration and Civil Rights.''</a> <em>Political Science Quarterly</em>, 134(2), 277-302.
+    
+Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">``Power Plus Persuasion: The Anatomy of Kennedy's Housing Order.''</a> <em>Congress & the Presidency</em>, 46(1), 109-134
 
-<a href="https://polsci.buffalo.edu/facultystaff/lamb/" target="_blank">Lamb, Charles M.</a>, Joshua Boston & <a href="https://polsci.buffalo.edu/facultystaff/neiheisel/" target="_blank">Jacob R. Neiheisel</a>. 2019. "Power Plus Persuasion: The Anatomy of Kennedy’s Housing Order." <i>Congress & the Presidency</i>. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">Article</a>
-
-Boston, Joshua, <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="https://smtorres.org/" target="_blank">Michelle Torres</a>, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. 2018. "The Dynamic Relationship between Personality Stability and Political Attitudes." <i>Public Opinion Quarterly</i>. <a href="https://academic.oup.com/poq/advance-article-abstract/doi/10.1093/poq/nfy001/4955833" target="_blank">Article</a>
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres & Patrick Tucker. 2018. <a href="https://doi.org/10.1093/poq/nfy001" target="_blank">``The Dynamic Relationship between Personality Stability and Political Attitudes."</a> <em>Public Opinion Quarterly</em>, 82(S1), 843-865.
+    
+Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, ... , Joshua Boston, ... , et al. 2018. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">``Pedagogical Value of Polling-Place Observation by Students.''</a> <em>PS: Political Science & Politics</em>, 51(4), 831 - 837.
 
 # Other Publications
 
-Stein, Robert, Christopher B. Mann, Charles Stewart, Zachary Birenbaum, Anson Fung, Jeb Greenberg, Farhan Kawsar, Gayle Alberda, R. Michael Alvarez, Emily Beaulieu, Nathaniel A. Birkhead, Frederick Boehmke, Joshua Boston, Barry C. Burden, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Terri Susan Fine, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Ken Mayer, Matthew R. Miles, David Miller, Lindsay Nielson, Yu Ouyang, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Rachel VanSickle-Ward, Jennifer Nicoll Victor, Abby Wood, & Julie Wronski. 2019. "Waiting to vote in the 2016 Presidential election: Evidence from a multi-jurisdiction study." <i>Political Research Quarterly</i>. <a href="https://journals.sagepub.com/doi/full/10.1177/1065912919832374" target="_blank">Article</a>
 
 Stein, Robert, Christopher B. Mann, Charles Stewart, Zachary Birenbaum, Anson Fung, Jeb Greenberg, Farhan Kawsar, Gayle Alberda, R. Michael Alvarez, Emily Beaulieu, Nathaniel A. Birkhead, Frederick Boehmke, Joshua Boston, Barry C. Burden, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Terri Susan Fine, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Ken Mayer, Matthew R. Miles, David Miller, Lindsay Nielson, Yu Ouyang, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Rachel VanSickle-Ward, Jennifer Nicoll Victor, Abby Wood, & Julie Wronski. "Polling Place Practices." In Kathleen Hale & Bridgett A. King (Eds.), <i>The Future of Election Administration</i>. Palgrave, 2019.
-
-Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, Yu Ouyang, Chloe Singer, Charles Stewart, Michael C. Herron, Emily Beaulieu, Frederick Boehmke, Joshua Boston, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Matthew R. Miles, David Miller, Lindsay Nielson, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Robert Stein, Rachel VanSickle-Ward, Abby K. Wood & Julie Wronski. 2018. "Pedagogical Value of Polling-Place Observation by Students." <i>PS: Political Science & Politics</i>. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">Article</a>
 
 # Working Papers & Projects
 
