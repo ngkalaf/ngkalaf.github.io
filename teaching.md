@@ -19,9 +19,9 @@ bigimg:
   - "/img/wood.jpg": "Wood County (OH) Courthouse"
 ---
 
-During the Fall 2020 semester, Prof. Boston will have Zoom office hours on Mondays & Wednesdays from 12:30 p.m. to 1:30 p.m. The recurring link to Prof. Boston's office hours is available on Canvas. 
+During the Fall 2022 semester, Prof. Boston will have office hours on Mondays from 10:30 a.m. to 11:20 a.m., and by appointment. If you wish to meet via Zoom, the recurring link is available on Canvas. 
 
-If you cannot make it to office hours or you need to have a more detailed meeting, you can schedule it here: <a href="https://calendly.com/jboston_bgsu/meet-with-prof-boston" target="_blank"> Meeting Scheduler </a>
+If you cannot make it to office hours or you need to have a more detailed meeting, you can schedule it by <a href="mailto:jboston@bgsu.edu" target="_blank">emailing Prof. Boston.</a>
 
 ### Courses
 #### Bowling Green State University
