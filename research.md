@@ -25,9 +25,8 @@ bigimg:
 
 #### Refereed Articles
 
-<ul style="list-style-type:disc;">
+<ul style="list-style-type:circle;">
 <li>Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences." Conditionally accepted at <em>Journal of Law & Courts</em>.</li>
-
 
 <li>Boston, Joshua. 2020. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">"Strategic Opinion Language on the U.S. Courts of Appeals."</a> <em>Journal of Law and Courts</em>, 8(1), 1-26.</li>
     
