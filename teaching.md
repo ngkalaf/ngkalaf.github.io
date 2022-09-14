@@ -25,11 +25,15 @@ If you cannot make it to office hours or you need to have a more detailed meetin
 
 ### Courses
 #### Bowling Green State University
-  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 1100: American Government: Processes and Structure </a> (Fall 2019, Spring 2020, Summer 2020, Fall 2020)
-  * POLS 4160: Constitutional Law: Powers and Relationships (Spring 2020)
-  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 4260: Law & Society--Undergraduate (Fall 2020)</a>
-  * POLS 4240: Supreme Court and Contemporary Issues (Fall 2019)
-  * <a href="https://canvas.bgsu.edu/" target="_blank">POLS 5260: Law & Society--Graduate (Fall 2020)</a>
+  * POLS 1100: American Government: Processes and Structure (Fall 2019-Summer 2021, Spring 2022, Summer 2022)
+  * POLS 4160: Constitutional Law---Powers and Relationships (Spring 2020, Spring 2022)
+  * POLS 4170: Constitutional Law---Procedural Rights (Fall 2021, Spring 2023)
+  * POLS 4180: Constitutional Law---Substantive Rights (Fall 2022)
+  * POLS 4260: Law & Society (Fall 2020, Spring 2022, Spring 2023)
+  * POLS 4240: Supreme Court and Contemporary Issues (Fall 2019, Spring 2021, Fall 2022)
+  * POLS 4900: Research Lab in Law & Society (Spring 2023)
+  * POLS 4920: Field Study in Public Law  (Spring 2020)
+  * POLS 5260: Graduate Seminar in Law & Society (Fall 2020)
 
 #### Washington University in St. Louis
   * PS 419: Teaching Assistant Practicum (Fall 2015, Fall 2016)
@@ -47,7 +51,7 @@ If you cannot make it to office hours or you need to have a more detailed meetin
 <p><img align="left" style="padding: 0 15px; width: 20%; height: 20%" src="https://www.joshuaboston.com/img/TandLcertificatebadge20192.jpg"></p>
 <p style="margin-top: 10px;"> </p>
 
-During the 2019-2020 academic year, I completed the BGSU Teaching and Learning Certificate Program as part of the Center for Faculty Excellence. Across a series of professional development workshops, ranging in topic from inclusive pedagogy to active learning strategies, the program provided me and other faculty member with many <a href="https://www.bgsu.edu/center-for-faculty-excellence/get-certified/bgsu-teaching-and-learning-certificate-program.html" target="_blank">"opportunities [...] to explore current, innovative, and effective teaching strategies that support student success.''</a> 
+During the 2019-2020 and 2020-2021 academic years, I completed the BGSU Teaching and Learning Certificate Program as part of the Center for Faculty Excellence. Across a series of professional development workshops, ranging in topic from inclusive pedagogy to active learning strategies, the program provided me and other faculty member with many <a href="https://www.bgsu.edu/center-for-faculty-excellence/get-certified/bgsu-teaching-and-learning-certificate-program.html" target="_blank">"opportunities [...] to explore current, innovative, and effective teaching strategies that support student success.''</a> 
 
 
 
