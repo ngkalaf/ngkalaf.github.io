@@ -22,23 +22,27 @@ bigimg:
 
 <p>My Google Scholar profile is available <a href="https://scholar.google.com/citations?user=hKBsYfwAAAAJ&hl" target="_blank">here</a>.</p>
 
-# Refereed Articles
 
-Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences." Conditionally accepted at <em>Journal of Law & Courts</em>.
+#### Refereed Articles
 
-Boston, Joshua. 2020. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">"Strategic Opinion Language on the U.S. Courts of Appeals."</a> <em>Journal of Law and Courts</em>, 8(1), 1-26.
-    
-Stein, Robert M., Christopher Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. 2020. <a href="https://journals.sagepub.com/doi/full/10.1177/1065912919832374" target="_blank">"Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study."</a> <em>Political Research Quarterly</em>, 73(2), 439-453.
-    
-Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.psqonline.org/article.cfm?IDArticle=19913" target="_blank">"Presidential Rhetoric and Bureaucratic Enforcement: The Clinton Administration and Civil Rights."</a> <em>Political Science Quarterly</em>, 134(2), 277-302.
-    
-Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">"Power Plus Persuasion: The Anatomy of Kennedy's Housing Order."</a> <em>Congress & the Presidency</em>, 46(1), 109-134
+<ul style="list-style-type:disc;">
+<li>Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences." Conditionally accepted at <em>Journal of Law & Courts</em>.</li>
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres & Patrick Tucker. 2018. <a href="https://doi.org/10.1093/poq/nfy001" target="_blank">"The Dynamic Relationship between Personality Stability and Political Attitudes."</a> <em>Public Opinion Quarterly</em>, 82(S1), 843-865.
-    
-Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, ... , Joshua Boston, ... , et al. 2018. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">"Pedagogical Value of Polling-Place Observation by Students."</a> <em>PS: Political Science & Politics</em>, 51(4), 831 - 837.
 
-# Other Publications
+<li>Boston, Joshua. 2020. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">"Strategic Opinion Language on the U.S. Courts of Appeals."</a> <em>Journal of Law and Courts</em>, 8(1), 1-26.</li>
+    
+<li>Stein, Robert M., Christopher Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. 2020. <a href="https://journals.sagepub.com/doi/full/10.1177/1065912919832374" target="_blank">"Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study."</a> <em>Political Research Quarterly</em>, 73(2), 439-453.</li>
+    
+<li>Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.psqonline.org/article.cfm?IDArticle=19913" target="_blank">"Presidential Rhetoric and Bureaucratic Enforcement: The Clinton Administration and Civil Rights."</a> <em>Political Science Quarterly</em>, 134(2), 277-302.</li>
+    
+<li>Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">"Power Plus Persuasion: The Anatomy of Kennedy's Housing Order."</a> <em>Congress & the Presidency</em>, 46(1), 109-134.</li>
+
+<li>Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres & Patrick Tucker. 2018. <a href="https://doi.org/10.1093/poq/nfy001" target="_blank">"The Dynamic Relationship between Personality Stability and Political Attitudes."</a> <em>Public Opinion Quarterly</em>, 82(S1), 843-865.</li>
+    
+<li>Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, ... , Joshua Boston, ... , et al. 2018. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">"Pedagogical Value of Polling-Place Observation by Students."</a> <em>PS: Political Science & Politics</em>, 51(4), 831 - 837.</li>
+</ul>
+
+#### Book Chapters
 
 Boston, Joshua & Dino Hadzic. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." In <em>Handbook of Law and Political Systems</em>. Robert Howard, Kirk Randazzo, & Rebecca Reid (Eds.). Elgar Press, forthcoming.
 
