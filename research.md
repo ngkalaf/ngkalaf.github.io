@@ -24,24 +24,25 @@ bigimg:
 
 # Refereed Articles
 
-Boston, Joshua & Bernardo S. Silveira. ``The Electoral Connection in Court: How Sentencing Responds to Voter Preferences.'' Conditionally accepted at <em>Journal of Law & Courts</em>.
+Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences." Conditionally accepted at <em>Journal of Law & Courts</em>.
 
-Boston, Joshua. 2020. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">``Strategic Opinion Language on the U.S. Courts of Appeals.''</a> <em>Journal of Law and Courts</em>, 8(1), 1-26.
+Boston, Joshua. 2020. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">"Strategic Opinion Language on the U.S. Courts of Appeals."</a> <em>Journal of Law and Courts</em>, 8(1), 1-26.
     
-Stein, Robert M., Christopher Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. 2020. <a href="https://journals.sagepub.com/doi/full/10.1177/1065912919832374" target="_blank">``Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study.''</a> <em>Political Research Quarterly</em>, 73(2), 439-453.
+Stein, Robert M., Christopher Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. 2020. <a href="https://journals.sagepub.com/doi/full/10.1177/1065912919832374" target="_blank">"Waiting to Vote in the 2016 Presidential Election: Evidence from a Multi-county Study."</a> <em>Political Research Quarterly</em>, 73(2), 439-453.
     
-Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.psqonline.org/article.cfm?IDArticle=19913" target="_blank">``Presidential Rhetoric and Bureaucratic Enforcement: The Clinton Administration and Civil Rights.''</a> <em>Political Science Quarterly</em>, 134(2), 277-302.
+Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.psqonline.org/article.cfm?IDArticle=19913" target="_blank">"Presidential Rhetoric and Bureaucratic Enforcement: The Clinton Administration and Civil Rights."</a> <em>Political Science Quarterly</em>, 134(2), 277-302.
     
-Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">``Power Plus Persuasion: The Anatomy of Kennedy's Housing Order.''</a> <em>Congress & the Presidency</em>, 46(1), 109-134
+Lamb, Charles M., Joshua Boston, & Jacob R. Neiheisel. 2019. <a href="https://www.tandfonline.com/doi/full/10.1080/07343469.2018.1539533" target="_blank">"Power Plus Persuasion: The Anatomy of Kennedy's Housing Order."</a> <em>Congress & the Presidency</em>, 46(1), 109-134
 
-Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres & Patrick Tucker. 2018. <a href="https://doi.org/10.1093/poq/nfy001" target="_blank">``The Dynamic Relationship between Personality Stability and Political Attitudes."</a> <em>Public Opinion Quarterly</em>, 82(S1), 843-865.
+Boston, Joshua, Jonathan Homola, Betsy Sinclair, Michelle Torres & Patrick Tucker. 2018. <a href="https://doi.org/10.1093/poq/nfy001" target="_blank">"The Dynamic Relationship between Personality Stability and Political Attitudes."</a> <em>Public Opinion Quarterly</em>, 82(S1), 843-865.
     
-Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, ... , Joshua Boston, ... , et al. 2018. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">``Pedagogical Value of Polling-Place Observation by Students.''</a> <em>PS: Political Science & Politics</em>, 51(4), 831 - 837.
+Mann, Christopher B., Gayle A. Alberda, Nathaniel A. Birkhead, ... , Joshua Boston, ... , et al. 2018. <a href="https://doi.org/10.1017/S1049096518000550" target="_blank">"Pedagogical Value of Polling-Place Observation by Students."</a> <em>PS: Political Science & Politics</em>, 51(4), 831 - 837.
 
 # Other Publications
 
+Boston, Joshua & Dino Hadzic. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." In <em>Handbook of Law and Political Systems</em>. Robert Howard, Kirk Randazzo, & Rebecca Reid (Eds.). Elgar Press, forthcoming.
 
-Stein, Robert, Christopher B. Mann, Charles Stewart, Zachary Birenbaum, Anson Fung, Jeb Greenberg, Farhan Kawsar, Gayle Alberda, R. Michael Alvarez, Emily Beaulieu, Nathaniel A. Birkhead, Frederick Boehmke, Joshua Boston, Barry C. Burden, Francisco Cantu, Rachael Cobb, David Darmofal, Thomas C. Ellington, Terri Susan Fine, Charles J. Finocchiaro, Michael Gilbert, Victor Haynes, Brian Janssen, David Kimball, Charles Kromkowski, Elena Llaudet, Ken Mayer, Matthew R. Miles, David Miller, Lindsay Nielson, Yu Ouyang, Costas Panagopoulos, Andrew Reeves, Min Hee Seo, Haley Simmons, Corwin Smidt, Rachel VanSickle-Ward, Jennifer Nicoll Victor, Abby Wood, & Julie Wronski. "Polling Place Practices." In Kathleen Hale & Bridgett A. King (Eds.), <i>The Future of Election Administration</i>. Palgrave, 2019.
+Stein, Robert, Christopher B. Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. "Polling Place Practices." In <a href="https://link.springer.com/book/10.1007%2F978-3-030-14947-5" target="_blank"><em>The Future of Election Administration</em></a>. Kathleen Hale & Bridgett A. King (Eds.). Palgrave Macmillan, 2020.
 
 # Working Papers & Projects
 
