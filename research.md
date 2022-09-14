@@ -43,29 +43,34 @@ bigimg:
 
 <p><b>Book Chapters</p></b>
 
-Boston, Joshua & Dino Hadzic. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." In <em>Handbook of Law and Political Systems</em>. Robert Howard, Kirk Randazzo, & Rebecca Reid (Eds.). Elgar Press, forthcoming.
+<ul style="list-style-type:circle;">
+<li>Boston, Joshua & Dino Hadzic. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." In <em>Handbook of Law and Political Systems</em>. Robert Howard, Kirk Randazzo, & Rebecca Reid (Eds.). Elgar Press, forthcoming.</li>
 
-Stein, Robert, Christopher B. Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. "Polling Place Practices." In <a href="https://link.springer.com/book/10.1007%2F978-3-030-14947-5" target="_blank"><em>The Future of Election Administration</em></a>. Kathleen Hale & Bridgett A. King (Eds.). Palgrave Macmillan, 2020.
+<li>Stein, Robert, Christopher B. Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. "Polling Place Practices." In <a href="https://link.springer.com/book/10.1007%2F978-3-030-14947-5" target="_blank"><em>The Future of Election Administration</em></a>. Kathleen Hale & Bridgett A. King (Eds.). Palgrave Macmillan, 2020.</li>
+</ul>
 
 <p><b>Working Papers & Projects</p></b>
 
-Boston, Joshua. "Collegial Politics and Opinion Writing on the U.S. Courts of Appeals: Dissuading Dissent through Writing Accommodations."
 
-Boston, Joshua, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">David Carlson</a> & <a href="http://jbduckmayr.com/" target="_blank">JB Duck-Mayr</a>. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)
+<ul style="list-style-type:circle;">
+<li>Boston, Joshua. "Collegial Politics and Opinion Writing on the U.S. Courts of Appeals: Dissuading Dissent through Writing Accommodations."</li>
 
-Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Friends in High Places: How Amici Capitalize on Supreme Court Participation."
+<li>Boston, Joshua, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">David Carlson</a> & <a href="http://jbduckmayr.com/" target="_blank">JB Duck-Mayr</a>. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." [Abstract](http://www.joshuaboston.com/abstracts/#independence)</li>
 
-<a href="https://und.edu/directory/benjamin.kassow" target="_blank">Kassow, Benjamin</a>, Joshua Boston, <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="https://sites.wustl.edu/drmiller/" target="_blank">David Miller</a>. "The Asymmetric Impact of Political Scandal on Public Perceptions of Judicial Nominees."
+<li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Friends in High Places: How Amici Capitalize on Supreme Court Participation."</li>
 
-Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?" [Abstract](http://www.joshuaboston.com/abstracts/#patent)
+<li><a href="https://und.edu/directory/benjamin.kassow" target="_blank">Kassow, Benjamin</a>, Joshua Boston, <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="https://sites.wustl.edu/drmiller/" target="_blank">David Miller</a>. "The Asymmetric Impact of Political Scandal on Public Perceptions of Judicial Nominees."</li>
 
-Boston, Joshua. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." [Abstract](http://www.joshuaboston.com/abstracts/#deference)
+<li>Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?" [Abstract](http://www.joshuaboston.com/abstracts/#patent)</li>
 
-Boston, Joshua, <a href="https://graduate.artsci.wustl.edu/mattchick" target="_blank">Matt Chick</a> & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Supreme Court Agenda Setting and Precedent Influence."
+<li>Boston, Joshua. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." [Abstract](http://www.joshuaboston.com/abstracts/#deference)</li>
 
-Boston, Joshua & <a href="http://www.bernardosilveira.net/" target="_blank">Bernardo S. Silveira</a>. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences."
+<li>Boston, Joshua, <a href="https://graduate.artsci.wustl.edu/mattchick" target="_blank">Matt Chick</a> & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Supreme Court Agenda Setting and Precedent Influence."</li>
 
-Boston, Joshua, <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="https://smtorres.org/" target="_blank">Michelle Torres</a>, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)
+<li>Boston, Joshua & <a href="http://www.bernardosilveira.net/" target="_blank">Bernardo S. Silveira</a>. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences."</li>
+
+<li>Boston, Joshua, <a href="https://jhomola.com/" target="_blank">Jonathan Homola</a>, <a href="https://pages.wustl.edu/betsysinclair" target="_blank">Betsy Sinclair</a>, <a href="https://smtorres.org/" target="_blank">Michelle Torres</a>, & <a href="https://www.patricktucker.org/" target="_blank">Patrick Tucker</a>. "Casualties of the Culture Wars: Lifestyle Differences Between Democrats and Republicans." [Abstract](http://www.joshuaboston.com/abstracts/#lifestyles)</li>
+</ul>
 
 <p><b>Coauthors</p></b>
 
