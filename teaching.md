@@ -19,7 +19,7 @@ bigimg:
   - "/img/wood.jpg": "Wood County (OH) Courthouse"
 ---
 
-<p align="justify">Teaching is something that excites me! I enjoy working with students. I do my best to make myself as available as possible for research, mentoring, discussions about law school, and extracurricular advising/discussions. I find that classroom discussions often lead to promising research questions both for myself and my students. I enjoy teaching introductory and advanced courses across American politics topics, with a strong focus on law & courts.</p>
+<p align="justify">Teaching is something that excites me! I enjoy working with students. I do my best to make myself as available as possible for research, mentoring, discussions about career path/graduate school, extracurricular advising, and personal/community building conversations. I find that in-class discussions often lead to promising research questions both for me and my students. I enjoy teaching introductory and advanced courses across American politics topics, with a strong focus on law & courts.</p>
 
 During the Fall 2022 semester, Prof. Boston will have office hours on Mondays from 10:30 a.m. to 11:20 a.m., and by appointment. If you wish to meet via Zoom, the recurring link is available on Canvas. 
 
