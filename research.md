@@ -69,6 +69,6 @@ Boston, Joshua, <a href="https://jhomola.com/" target="_blank">Jonathan Homola</
 
 <p><b>Coauthors</p></b>
 
-<p align="justify">Research is a collaborative process. As such, all of my work is made better by my colleagues and co-authors. Please take some time to check out the awesome work being done in the <a href="https://www.bgsu.edu/arts-and-sciences/political-science/faculty-and-staff-directory.html" target="_blank">BGSU Political Science Department</a> and by my collaborators listed in the citations above.</p> 
+<p align="justify">Research is a collaborative process. I find great intellectual stimulation in working with teammates who have different training, identities, world views, and much more. As such, all of my research is made better by my colleagues and co-authors. Please take some time to check out the awesome work being done in the <a href="https://www.bgsu.edu/arts-and-sciences/political-science/faculty-and-staff-directory.html" target="_blank">BGSU Political Science Department</a> and by my collaborators listed in the citations above.</p> 
 
 <p>Replication files for my published works are available upon request. Please feel free to email me: <a href="mailto:jboston@bgsu.edu" target="_blank">jboston@bgsu.edu</a></p>
