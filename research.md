@@ -14,10 +14,10 @@ bigimg:
   - "/img/ussc3.jpg": "Supreme Court of the United States"
 ---
 
-<p align="justify">I am most passionate about researching law and courts, primarily in the American politics subfield, but also in comparative contexts. While my dissertation focuses on opinion writing in U.S. federal courts, I have many other judicial related interests, including legal doctrine/precedent treatment, agenda setting, and judicial confirmation politics. Aside from these particular interests, I am involved in various other projects studying the American president, judicial independence, and mass opinion/polarization.</p>
+<p align="justify"> Prof. Boston researches and teaches classes on political institutions. His research---centering on questions of judicial politics---examines (1) the internal politics of courts, (2) how courts fit into separation of powers systems, and (3) the effect of legal institutions on the public. Prof. Boston's published work can be found in Journal of Law & Courts, Political Science Quarterly, Congress & the Presidency, and Public Opinion Quarterly.</p>
 
 
-<p>My curriculum vitae is available here: <a href="https://www.dropbox.com/s/0p502fm2vjpveij/JBoston_CV.pdf?dl=0" target="_blank">CV</a></p>
+<p>My curriculum vitae is available here: <a href="https://www.dropbox.com/s/g9cib9ordw5psed/Boston_CV_sept2022.pdf?dl=0" target="_blank">CV</a></p>
 
 <p>My Google Scholar profile is available at the following link: <a href="https://scholar.google.com/citations?user=hKBsYfwAAAAJ&hl" target="_blank">Google Scholar</a></p>
 
