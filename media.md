@@ -22,7 +22,7 @@ Boston, Joshua. <a href="https://www.bgsu.edu/news/2020/10/joshua-boston-on-us-s
 
 # Media Interviews & Appearances
 
-<a href="https://nbc24.com/news/local/legal-experts-discuss-impact-of-supreme-court-leak-in-ohio" target="_blank">NBC 24 (May 4 2022)</a>"Legal experts discuss impact of Supreme Court leak in Ohio."
+<a href="https://nbc24.com/news/local/legal-experts-discuss-impact-of-supreme-court-leak-in-ohio" target="_blank">NBC 24 (May 4 2022)</a> "Legal experts discuss impact of Supreme Court leak in Ohio."
 
 <a href="https://www.wtol.com/article/news/local-experts-weigh-in-on-key-things-left-to-learn-in-the-presidential-race/512-1db6f351-3e03-4a96-9bcb-83f6971b9efd" target="_blank">WTOL 11 (November 4, 2020)</a> "Local expert weighs in on key things left to learn in the presidential race."
 <ul>
