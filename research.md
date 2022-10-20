@@ -16,7 +16,7 @@ bigimg:
 
 <p align="justify"> My research centers on American politics, with particular focus on judicial institutions, law and society, and constitutional law. Even more, I am passionate about investigating the behavioral implications of judicial and legal institutions. Outside of American politics, I maintain an interest in comparative judicial behavior, with particular attention toward the opportunities and constraint national high courts and international courts face in judicial decision making. Across my research agenda, I have published in high-quality, high-impact journals including <em>Public Opinion Quarterly</em>, the <em>Journal of Law & Courts</em>, <em>Political Science Quarterly</em>, <em>Congress & the Presidency</em>, among other outlets.
 
-<p>My curriculum vitae is available <a href="https://www.dropbox.com/s/g9cib9ordw5psed/Boston_CV_sept2022.pdf?dl=0" target="_blank">here</a>.</p>
+<p>My curriculum vitae is available <a href="https://www.dropbox.com/s/y40n7en1lg1wush/Boston_CV_October2022.pdf?dl=0" target="_blank">here</a>.</p>
 
 <p>My conference presentations are available <a href="https://www.dropbox.com/s/pbmy8zpvv8o61og/Boston_Conf_sept2022.pdf?dl=0" target="_blank">here</a>.</p>
 
@@ -54,12 +54,13 @@ bigimg:
 
 <ul style="list-style-type:circle;">
   
-  <li>Boston, Joshua & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher Krewson</a>. "Public Approval of the Supreme Court and Its Implications for Legitimacy." <em>Invited to revise & resubmit.</em></li>
   
   
 <li>Joshua Boston, <a href="https://und.edu/directory/benjamin.kassow" target="_blank">Benjamin Kassow</a>,  <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="http://www.davidryanmiller.com/" target="_blank">David Miller</a>. "Your Honor's Misdeeds: The Consequences of Judicial Scandal on Specific and Diffuse Support." <em>Invited to revise & resubmit.</em></li>
   
 <li>Boston, Joshua, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">David Carlson</a>, <a href="http://jbduckmayr.com/" target="_blank">JB Duck-Mayr</a>, & <a href="https://gregsasso.me/" target="_blank">Greg Sasso</a>. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." <em>Invited to revise & resubmit.</em> </li>
+  
+  <li>Boston, Joshua & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher Krewson</a>. "Public Approval of the Supreme Court and Its Implications for Legitimacy." </li>
   
   <li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Status Quo Reversion Points in Supreme Court Agenda Setting."</li>
   
