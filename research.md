@@ -27,6 +27,8 @@ bigimg:
 
 <ul style="list-style-type:circle;">
 <li>Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences." Conditionally accepted at <em>Journal of Law & Courts</em>.</li>
+  
+<li>Boston, Joshua, <a href="https://und.edu/directory/benjamin.kassow" target="_blank">Benjamin Kassow</a>,  <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="http://www.davidryanmiller.com/" target="_blank">David Miller</a>. "Your Honor's Misdeeds: The Consequences of Judicial Scandal on Specific and Diffuse Support." Forthcoming in <em>PS: Political Science & Politics</em>.</li>
 
 <li>Boston, Joshua. 2020. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">"Strategic Opinion Language on the U.S. Courts of Appeals."</a> <em>Journal of Law and Courts</em>, 8(1), 1-26.</li>
     
@@ -56,7 +58,7 @@ bigimg:
   
   
   
-<li>Joshua Boston, <a href="https://und.edu/directory/benjamin.kassow" target="_blank">Benjamin Kassow</a>,  <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="http://www.davidryanmiller.com/" target="_blank">David Miller</a>. "Your Honor's Misdeeds: The Consequences of Judicial Scandal on Specific and Diffuse Support." <em>Invited to revise & resubmit.</em></li>
+
   
 <li>Boston, Joshua, <a href="https://sites.wustl.edu/davidcarlson/" target="_blank">David Carlson</a>, <a href="http://jbduckmayr.com/" target="_blank">JB Duck-Mayr</a>, & <a href="https://gregsasso.me/" target="_blank">Greg Sasso</a>. "Political Competition and Judicial Independence: How Courts Fill the Void When Legislatures Are Ineffective." <em>Invited to revise & resubmit.</em> </li>
   
