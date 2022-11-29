@@ -26,7 +26,7 @@ bigimg:
 <p><b>Refereed Articles</b></p>
 
 <ul style="list-style-type:circle;">
-<li>Boston, Joshua & Bernardo S. Silveira. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences." Conditionally accepted at <em>Journal of Law & Courts</em>.</li>
+<li>Boston, Joshua & <a href="http://www.bernardosilveira.net/" target="_blank">Bernardo S. Silveira</a>. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences." Conditionally accepted at <em>Journal of Law & Courts</em>.</li>
   
 <li>Boston, Joshua, <a href="https://und.edu/directory/benjamin.kassow" target="_blank">Benjamin Kassow</a>,  <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="http://www.davidryanmiller.com/" target="_blank">David Miller</a>. "Your Honor's Misdeeds: The Consequences of Judicial Scandal on Specific and Diffuse Support." Forthcoming in <em>PS: Political Science & Politics</em>.</li>
 
