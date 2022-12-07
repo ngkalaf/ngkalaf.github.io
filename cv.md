@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-<p>My CV is available at the following link: <a href="https://www.dropbox.com/s/y40n7en1lg1wush/Boston_CV_October2022.pdf?dl=0">CV</a></p>
+<p>My CV is available at the following link: <a href="https://www.dropbox.com/s/zxa5zg74ls9ykhl/JBoston_CV_dec2022.pdf?dl=0">CV</a></p>
 
 
 
