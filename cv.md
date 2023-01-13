@@ -3,8 +3,8 @@ layout: page
 title: Curriculum Vitae
 ---
 
-  <iframe src="https://docs.google.com/gview?url=https://www.dropbox.com/s/zxa5zg74ls9ykhl/JBoston_CV_dec2022.pdf?dl=0" style="width:600px; height:500px;" frameborder="0"></iframe>
 
+https://docs.google.com/gview?url=https://www.dropbox.com/s/zxa5zg74ls9ykhl/JBoston_CV_dec2022.pdf?dl=0
 
 
 <p>My CV is available at the following link: <a href="https://www.dropbox.com/s/zbrl2a99lmlyf95/JBoston_CV_Jan2023.pdf?dl=0">CV</a></p>
