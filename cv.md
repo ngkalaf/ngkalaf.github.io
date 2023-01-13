@@ -3,8 +3,17 @@ layout: page
 title: Curriculum Vitae
 ---
 
-
-  <iframe src="https://docs.google.com/gview?url=https://github.com/jktboston/jktboston.github.io/blob/01f183f20b0bee75385ac0f1ec60daced3269d95/img/JBoston_CV_Jan2023.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
+<!DOCTYPE html>
+<html>
+    <body>
+        <iframe
+                    src="https://docs.google.com/gview?url=https://github.com/jktboston/jktboston.github.io/blob/01f183f20b0bee75385ac0f1ec60daced3269d95/img/JBoston_CV_Jan2023.pdf"
+            style="width: 90%; 
+                    height: 1000px">
+            <p>Your browser does not support iframes.</p>
+        </iframe>
+    </body>
+</html>
 
 <p>My CV is available at the following link: <a href="https://www.dropbox.com/s/zbrl2a99lmlyf95/JBoston_CV_Jan2023.pdf?dl=0">CV</a></p>
 
