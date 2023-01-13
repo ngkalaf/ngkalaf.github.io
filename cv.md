@@ -6,7 +6,7 @@ title: Curriculum Vitae
 <html>
     <body>
         <iframe
-                    src="https://docs.google.com/gview?url=https://github.com/jktboston/jktboston.github.io/blob/01f183f20b0bee75385ac0f1ec60daced3269d95/img/JBoston_CV_Jan2023.pdf"
+                    src="https://docs.google.com/viewer?url=https://github.com/jktboston/jktboston.github.io/blob/01f183f20b0bee75385ac0f1ec60daced3269d95/img/JBoston_CV_Jan2023.pdf"
             style="width: 90%; 
                     height: 1000px">
             <p>Your browser does not support iframes.</p>
