@@ -16,7 +16,7 @@ bigimg:
 
 <p align="justify"> My research centers on American political institutions, with particular focus on the federal judiciary, law and society, and constitutional law. I am passionate about investigating the implications of institutions, rules, and norms for elite and public behavior. In my work as a teacher-scholar, I am motivated to address substantively important topics like elite decision-making, identity and representation in government, and public support for political institutions. Outside of American politics, I maintain an interest in comparative judicial behavior, with particular attention toward the opportunities and constraints national high courts and international courts face in judicial decision making.</p>
 
-<p>My curriculum vitae is available <a href="https://www.dropbox.com/s/y40n7en1lg1wush/Boston_CV_October2022.pdf?dl=0" target="_blank">here</a>.</p>
+<p>My curriculum vitae is available <a href="https://www.dropbox.com/s/zbrl2a99lmlyf95/JBoston_CV_Jan2023.pdf?dl=0" target="_blank">here</a>.</p>
 
 <p>My conference presentations are available <a href="https://www.dropbox.com/s/pbmy8zpvv8o61og/Boston_Conf_sept2022.pdf?dl=0" target="_blank">here</a>.</p>
 
