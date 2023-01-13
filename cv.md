@@ -3,16 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-<html>
-	<body>
-		<iframe 
-                    src="https://docs.google.com/gview?url=https://www.dropbox.com/s/zxa5zg74ls9ykhl/JBoston_CV_dec2022.pdf?dl=0" 
-		    style="width: 90%; 
-                    height: 1000px">
-			<p>Your browser does not support iframes.</p>
-		</iframe>
-	</body>
-</html>
+  <iframe src="https://docs.google.com/gview?url=https://www.dropbox.com/s/zxa5zg74ls9ykhl/JBoston_CV_dec2022.pdf?dl=0" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 
 
