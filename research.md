@@ -27,7 +27,7 @@ bigimg:
 
 <li>Boston, Joshua & <a href="http://www.bernardosilveira.net/" target="_blank">Bernardo S. Silveira</a>. "The Electoral Connection in Court: How Sentencing Responds to Voter Preferences." Forthcoming in <em>Journal of Law & Courts</em>.</li>
   
-<li>Boston, Joshua, <a href="https://und.edu/directory/benjamin.kassow" target="_blank">Benjamin Kassow</a>,  <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="http://www.davidryanmiller.com/" target="_blank">David Miller</a>. 2023. <a href="https://www.doi.org/10.1017/S104909652200138X" target="_blank">"Your Honor's Misdeeds: The Consequences of Judicial Scandal on Specific and Diffuse Support."</a> Forthcoming in <em>PS: Political Science & Politics</em>, 1-6.</li>
+<li>Boston, Joshua, <a href="https://und.edu/directory/benjamin.kassow" target="_blank">Benjamin Kassow</a>,  <a href="http://www.alismasood.com/" target="_blank">Ali Masood</a>, & <a href="http://www.davidryanmiller.com/" target="_blank">David Miller</a>. 2023. <a href="https://www.doi.org/10.1017/S104909652200138X" target="_blank">"Your Honor's Misdeeds: The Consequences of Judicial Scandal on Specific and Diffuse Support."</a> <em>PS: Political Science & Politics</em>, 1-6.</li>
 
 <li>Boston, Joshua. 2020. <a href="https://www.journals.uchicago.edu/doi/full/10.1086/704633" target="_blank">"Strategic Opinion Language on the U.S. Courts of Appeals."</a> <em>Journal of Law and Courts</em>, 8(1), 1-26.</li>
     
@@ -69,7 +69,7 @@ bigimg:
 
   <li>Boston, Joshua, Patrick Rickert, James F. Spriggs II, & Nicholas Waterbury. "The Curious Case of the Migrating Seat: Understanding the Role of Senate Norms in Confirming Judges on the U.S. Courts of Appeals."</li>
   
-<li>Boston, Joshua. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"</li>
+<li>Boston, Joshua & <a href="https://gregsasso.me/" target="_blank">Greg Sasso</a>. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"</li>
 </ul>
 
 
