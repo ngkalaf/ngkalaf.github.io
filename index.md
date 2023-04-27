@@ -19,7 +19,7 @@ bigimg:
 ---
 
 
-<p><img align="left" style="padding: 0 15px; width: 45%; height: 45%" src="img/IMG_5355.jpg"></p>
+<p><img align="left" style="padding: 0 15px; width: 45%; height: 45%" src="img/me.jpg"></p>
 <p style="margin-top: 20px;"> </p>
 
 # [About Me](https://www.joshuaboston.com/cv/)
