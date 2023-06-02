@@ -63,11 +63,13 @@ bigimg:
   
   <li>Boston, Joshua & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher Krewson</a>. "Public Approval of the Supreme Court and Its Implications for Legitimacy." </li>
   
+  <li>Applin, Lydia, Joshua Boston, & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher Krewson</a>. "Understanding the Effect of Media Consumption on Supreme Court Approval."</li>
+  
   <li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Status Quo Reversion Points in Supreme Court Agenda Setting."</li>
   
 <li>Boston, Joshua. "Collegial Politics and Opinion Writing on the U.S. Courts of Appeals: Dissuading Dissent through Writing Accommodations."</li>
 
-  <li>Boston, Joshua, Patrick Rickert, James F. Spriggs II, & Nicholas Waterbury. "The Curious Case of the Migrating Seat: Understanding the Role of Senate Norms in Confirming Judges on the U.S. Courts of Appeals."</li>
+  <li>Boston, Joshua, Patrick Rickert, James F. Spriggs II, & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "The Curious Case of the Migrating Seat: Understanding the Role of Senate Norms in Confirming Judges on the U.S. Courts of Appeals."</li>
   
 <li>Boston, Joshua & <a href="https://gregsasso.me/" target="_blank">Greg Sasso</a>. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"</li>
 </ul>
@@ -87,7 +89,7 @@ bigimg:
 
 <li>Boston, Joshua, Tristen Bowles, Zachary J. Noesen, Judith Ramos, & Nicholas Waterbury. "Religious Identity and Supreme Court Support: The Effect of Heuristics in Legitimacy Evaluations."</li>
 
-<li>Applin, Lydia, Joshua Boston, & Christopher Krewson. "Understanding the Effect of Media Consumption on Supreme Court Approval."</li>
+
 
   
 </ul>
