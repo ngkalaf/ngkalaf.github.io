@@ -14,11 +14,14 @@ bigimg:
   - "/img/ussc3.jpg": "Supreme Court of the United States"
 ---
 
-# Scholarship of Engagement
+# Public Scholarship
 
-Boston, Joshua. <a href="https://www.cleveland.com/opinion/2020/09/supreme-court-should-not-be-a-campaign-wedge-issue-joshua-boston.html" target="_blank">"Supreme Court should not be a campaign ‘wedge issue'."</a> <a href="https://muckrack.com/blog/2019/10/24/the-top-25-us-daily-newspapers-of-fall-2019" targer="_blank"><i>The Plain Dealer</i>.</a> Appeared in print and on Cleveland.com on Wednesday, September 23, 2020.
+<a href="https://theconversation.com/judging-the-judges-scandals-have-the-potential-to-affect-the-legitimacy-of-judges-and-possibly-the-federal-judiciary-too-205817" target="_blank">"Judging the judges: Scandals have the potential to affect the legitimacy of judges – and possibly the federal judiciary, too."</a> <i>The  Conversation</i>, with Benjamin Kassow, Ali S. Masood, \& David R. Miller. June 2, 2023. 
 
-Boston, Joshua. <a href="https://www.bgsu.edu/news/2020/10/joshua-boston-on-us-supreme-court-and-2020-election.html" target="_blank">"Q&A: BGSU's Dr. Joshua Boston on the U.S. Supreme Court and the 2020 Election."</a> Appeared on <a href="https://www.bgsu.edu/news.html" targer="_blank">BGSU News Online</a> on Tuesday, October 20, 2020.
+
+<a href="https://www.bgsu.edu/news/2020/10/joshua-boston-on-us-supreme-court-and-2020-election.html" target="_blank">"Q&A: BGSU's Dr. Joshua Boston on the U.S. Supreme Court and the 2020 Election."</a> Appeared on <a href="https://www.bgsu.edu/news.html" targer="_blank">BGSU News Online</a> on Tuesday, October 20, 2020.
+
+<a href="https://www.cleveland.com/opinion/2020/09/supreme-court-should-not-be-a-campaign-wedge-issue-joshua-boston.html" target="_blank">"Supreme Court should not be a campaign ‘wedge issue'."</a> <a href="https://muckrack.com/blog/2019/10/24/the-top-25-us-daily-newspapers-of-fall-2019" targer="_blank"><i>The Plain Dealer</i>.</a> Appeared in print and on Cleveland.com on Wednesday, September 23, 2020.
 
 # Media Interviews & Appearances
 
