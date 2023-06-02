@@ -45,7 +45,7 @@ bigimg:
 <p><b>Book Chapters</b></p>
 
 <ul style="list-style-type:circle;">
-<li>Boston, Joshua & Dino Hadzic. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." In <em>Handbook of Law and Political Systems</em>. Robert Howard, Kirk Randazzo, & Rebecca Reid (Eds.). Elgar Press, forthcoming.</li>
+<li>Boston, Joshua & Dino Hadzic. "Strategic Deference by the European Court of Justice: Understanding Economic Influences on Judicial Decision-Making." In <a href="https://www.e-elgar.com/shop/usd/research-handbook-on-law-and-political-systems-9781800378339.html"target="_blank"><em>Research Handbook on Law and Political Systems</em></a>. Robert Howard, Kirk Randazzo, & Rebecca Reid (Eds.). Elgar Press, 2023.</li>
 
 <li>Stein, Robert, Christopher B. Mann, Charles Stewart III, ... , Joshua Boston, ... , et al. "Polling Place Practices." In <a href="https://link.springer.com/book/10.1007%2F978-3-030-14947-5" target="_blank"><em>The Future of Election Administration</em></a>. Kathleen Hale & Bridgett A. King (Eds.). Palgrave Macmillan, 2020.</li>
 </ul>
@@ -81,7 +81,7 @@ bigimg:
 
 <ul style="list-style-type:circle;">
   
-  <li>Boston, Joshua, <a href="https://www.annagunderson.com/" target="_blank">Anna Gunderson</a>, <a href="[https://home.nicholaswaterbury.com/](http://www.davidryanmiller.com/)" target="_blank">David R. Miller</a>, & <a href="[https://home.nicholaswaterbury.com/](https://polisci.utk.edu/faculty/widner/)" target="_blank">Kirsten Widner</a>. "Understanding How Litigant Behavior Impacts Public Perceptions of Courts."
+  <li>Boston, Joshua, <a href="https://www.annagunderson.com/" target="_blank">Anna Gunderson</a>, <a href="http://www.davidryanmiller.com/" target="_blank">David R. Miller</a>, & <a href="https://polisci.utk.edu/faculty/widner/" target="_blank">Kirsten Widner</a>. "Understanding How Litigant Behavior Impacts Public Perceptions of Courts."
   
   <li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Friends in High Places: How Amici Capitalize on Supreme Court Participation."</li>
   
