@@ -63,7 +63,7 @@ bigimg:
   
   <li>Boston, Joshua & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher Krewson</a>. "Public Approval of the Supreme Court and Its Implications for Legitimacy." </li>
   
-  <li>Applin, Lydia, Joshua Boston, & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher Krewson</a>. "Understanding the Effect of Media Consumption on Supreme Court Approval."</li>
+  <li>Applin, Lydia, Joshua Boston, & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher Krewson</a>. "The Political Court: News Coverage and Public Approval of the U.S. Supreme Court from 1980-2023."</li>
   
   <li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Status Quo Reversion Points in Supreme Court Agenda Setting."</li>
   
@@ -80,6 +80,8 @@ bigimg:
 
 
 <ul style="list-style-type:circle;">
+  
+  <li>Boston, Joshua, <a href="https://www.annagunderson.com/" target="_blank">Anna Gunderson</a>, <a href="[https://home.nicholaswaterbury.com/](http://www.davidryanmiller.com/)" target="_blank">David R. Miller</a>, & <a href="[https://home.nicholaswaterbury.com/](https://polisci.utk.edu/faculty/widner/)" target="_blank">Kirsten Widner</a>. "Understanding How Litigant Behavior Impacts Public Perceptions of Courts."
   
   <li>Boston, Joshua & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "Friends in High Places: How Amici Capitalize on Supreme Court Participation."</li>
   
