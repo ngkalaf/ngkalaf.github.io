@@ -16,7 +16,7 @@ bigimg:
 
 # Public Scholarship
 
-<a href="https://theconversation.com/judging-the-judges-scandals-have-the-potential-to-affect-the-legitimacy-of-judges-and-possibly-the-federal-judiciary-too-205817" target="_blank">"Judging the judges: Scandals have the potential to affect the legitimacy of judges – and possibly the federal judiciary, too."</a> <i>The  Conversation</i>, with Benjamin Kassow, Ali S. Masood, \& David R. Miller. June 2, 2023. 
+<a href="https://theconversation.com/judging-the-judges-scandals-have-the-potential-to-affect-the-legitimacy-of-judges-and-possibly-the-federal-judiciary-too-205817" target="_blank">"Judging the judges: Scandals have the potential to affect the legitimacy of judges – and possibly the federal judiciary, too."</a> <i>The  Conversation</i>, with Benjamin Kassow, Ali S. Masood, & David R. Miller. June 2, 2023. 
 
 
 <a href="https://www.bgsu.edu/news/2020/10/joshua-boston-on-us-supreme-court-and-2020-election.html" target="_blank">"Q&A: BGSU's Dr. Joshua Boston on the U.S. Supreme Court and the 2020 Election."</a> Appeared on <a href="https://www.bgsu.edu/news.html" targer="_blank">BGSU News Online</a> on Tuesday, October 20, 2020.
