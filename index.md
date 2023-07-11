@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Niki Kalaf-Hughes, PhD
+title: Nicole Kalaf-Hughes, PhD
 subtitle: Associate Professor, Bowling Green State University
 use-site-title: true
 bigimg:
@@ -16,7 +16,7 @@ bigimg:
 
 # [About Me](https://www.joshuaboston.com/cv/)
 
-<p align="justify">I am an associate professor in the <a href="https://www.bgsu.edu/arts-and-sciences/political-science.html" target="_blank">Bowling Green State University political science department</a>. My primary research is in American politics, focusing on legislative behavior and representation. I teach courses in American political institutions, race and ethnic politics, and research methods. I received my Ph.D. in Political Science from the University of California, Davis..</p>
+<p align="justify">I am an associate professor in the <a href="https://www.bgsu.edu/arts-and-sciences/political-science.html" target="_blank">Bowling Green State University political science department</a>. My primary research is in American politics, focusing on legislative behavior and representation. I teach courses in American political institutions, race and ethnic politics, and research methods. I received my Ph.D. in Political Science from the University of California, Davis.</p>
 
 
 
