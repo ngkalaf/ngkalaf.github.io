@@ -6,7 +6,7 @@ use-site-title: true
 bigimg:
   - "/img/pond.jpg": "Kapalua Walking Trails"
   - "/img/robots.jpg": "Bowling Green State University"
-  - "/img/spot.jpg": "Oak Openings Metro Park"
+  - "/img/spot.jpeg": "Oak Openings Metro Park"
   - "/img/bluecreek.jpg": "Blue Creek Metro Park"
   - "/img/lariver.jpg": "The LA River"
   - "/img/ducks.jpg": "Kapalua Walking Trails"
@@ -19,11 +19,11 @@ bigimg:
 
 # [About Me](https://www.joshuaboston.com/cv/)
 
-<p align="justify">I am an associate professor of political science at <a href="https://www.bgsu.edu/arts-and-sciences/political-science.html" target="_blank">Bowling Green State University</a>. 
+<p align="justify">I am an associate professor of political science at <a href="https://www.bgsu.edu/arts-and-sciences/political-science.html" target="_blank">Bowling Green State University</a>. </p>
   
-  I study American political institutions, with a particular focus on legislative behavior, representation, race, and gender. I teach courses in American politics, state and local politics, race and ethnicity, and research methods. 
+  <p align="justify">I study American political institutions, with a particular focus on legislative behavior, representation, race, and gender. I teach courses in American politics, state and local politics, race and ethnicity, and research methods. </p>
   
-  I received my Ph.D. in Political Science from the University of California, Davis (Go Ags!).</p>
+  <p align="justify">I received my Ph.D. in Political Science from the University of California, Davis (Go Ags!).</p>
 
 
 
