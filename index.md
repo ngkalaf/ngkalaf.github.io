@@ -14,8 +14,8 @@ bigimg:
 ---
 
 
-/*<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/ducks.jpg"></p>
-<p style="margin-top: 20px;"> </p>*/
+<!-- <p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/ducks.jpg"></p>
+<p style="margin-top: 20px;"> </p> -->
 
 # [About Me](https://www.joshuaboston.com/cv/)
 
