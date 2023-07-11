@@ -17,7 +17,7 @@ baseurl: ""
 title: Nicole Kalaf-Hughes, PhD
 
 # Short description of your site
-description: BGSU Assistant Professor of Political Science
+description: BGSU Associate Professor of Political Science
 
 # --- Navigation bar options --- #
 
@@ -26,7 +26,7 @@ navbar-links:
   Curriculum Vitae: "cv"
   Teaching: "teaching"
   Research: "research"
-  Media: "media"
+  Instructional Design: "instructional design"
   About Me: "about"
   Contact Me: "contact"
   #Professional Experience:
