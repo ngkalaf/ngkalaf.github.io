@@ -9,11 +9,13 @@ bigimg:
   - "/img/spot.jpg": "Oak Openings Metro Park"
   - "/img/bluecreek.jpg": "Blue Creek Metro Park"
   - "/img/lariver.jpg": "The LA River"
+  - "/img/ducks.jpg": "Kapalua Walking Trails"
+
 ---
 
 
-<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/ducks.jpg"></p>
-<p style="margin-top: 20px;"> </p>
+/*<p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/ducks.jpg"></p>
+<p style="margin-top: 20px;"> </p>*/
 
 # [About Me](https://www.joshuaboston.com/cv/)
 
