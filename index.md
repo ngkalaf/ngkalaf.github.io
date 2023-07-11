@@ -6,6 +6,9 @@ use-site-title: true
 bigimg:
   - "/img/pond.jpg": "Kapalua Walking Trails"
   - "/img/robots.jpg": "Bowling Green State University"
+  - "/img/spot.jpg": "Oak Openings Metro Park"
+  - "/img/bluecreek.jpg": "Blue Creek Metro Park"
+  - "/img/lariver.jpg": "The LA River"
 ---
 
 
