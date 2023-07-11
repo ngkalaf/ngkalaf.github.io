@@ -5,8 +5,6 @@ subtitle: Associate Professor, Bowling Green State University
 use-site-title: true
 bigimg:
   - "/img/pond.jpg": "Kapalua Walking Trails"
-  - "/img/robots.jpg": "Bowling Green State University"
-  - "/img/spot.jpeg": "Oak Openings Metro Park"
   - "/img/bluecreek.jpg": "Blue Creek Metro Park"
   - "/img/lariver.jpg": "The LA River"
   - "/img/ducks.jpg": "Kapalua Walking Trails"
@@ -14,8 +12,8 @@ bigimg:
 ---
 
 
-<!-- <p><img align="left" style="padding: 0 15px; width: 30%; height: 30%" src="img/ducks.jpg"></p>
-<p style="margin-top: 20px;"> </p> -->
+ <p><img align="left" style="padding: 0 15px; width: 45%; height: 45%" src="img/robots.jpg"></p>
+<p style="margin-top: 20px;"> </p> 
 
 # [About Me](https://www.joshuaboston.com/cv/)
 
