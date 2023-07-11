@@ -1,21 +1,13 @@
 ---
 layout: page
-title: Joshua Boston, PhD
-subtitle: Assistant Professor, Bowling Green State University
+title: Niki Kalaf-Hughes, PhD
+subtitle: Associate Professor, Bowling Green State University
 use-site-title: true
 bigimg:
-  - "/img/stl4.jpg": "Washington University in St. Louis"
-  - "/img/wustl99.jpg": "Washington University in St. Louis"
-  - "/img/wustl55.jpg": "Washington University in St. Louis"
-  - "/img/fourth.jpg": "United States Court of Appeals for the Fourth Circuit"
-  - "/img/fifth.jpg": "United States Court of Appeals for the Fifth Circuit"
-  - "/img/sixth.jpg": "United States Court of Appeals for the Sixth Circuit"
-  - "/img/ussc1.jpg": "Supreme Court of the United States"
-  - "/img/ussc3.jpg": "Supreme Court of the United States"
+  - "/img/pond.jpg": "Kapalua Walking Trails"
   - "/img/williams1.jpg": "Bowling Green State University"
   - "/img/williams2.jpg": "Bowling Green State University"
   - "/img/univhall1.jpg": "Bowling Green State University"
-  - "/img/wood.jpg": "Wood County (OH) Courthouse"
 ---
 
 
@@ -24,7 +16,7 @@ bigimg:
 
 # [About Me](https://www.joshuaboston.com/cv/)
 
-<p align="justify">My name is Joshua Boston, and I am an assistant professor in the <a href="https://www.bgsu.edu/arts-and-sciences/political-science.html" target="_blank">Bowling Green State University political science department</a>. My <a href="http://www.joshuaboston.com/research/" target="_blank">research</a> and <a href="http://www.joshuaboston.com/teaching/" target="_blank">teaching</a> center on American political institutions, with particular focus on the federal judiciary, law and society, and constitutional law. I am motivated to address substantively important topics like elite decision-making, identity and representation in the law, and public support for legal institutions. I have additional interests in questions that study separation of powers, the American presidency, and comparative courts. I earned my Ph.D. in political science at <a href="http://polisci.wustl.edu/" target="_blank">Washington University in St. Louis</a>. Previously, I attended the University at Buffalo (SUNY) where I earned an M.A. in political science and B.A. in legal studies (<i>summa cum laude</i>, &Phi;&Beta;&Kappa;).</p>
+<p align="justify">I am an associate professor in the <a href="https://www.bgsu.edu/arts-and-sciences/political-science.html" target="_blank">Bowling Green State University political science department</a>. My primary research is in American politics, focusing on legislative behavior and representation. I teach courses in American political institutions, race and ethnic politics, and research methods. I received my Ph.D. in Political Science from the University of California, Davis..</p>
 
 
 
