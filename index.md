@@ -14,7 +14,11 @@ bigimg:
 
 # [About Me](https://www.joshuaboston.com/cv/)
 
-<p align="justify">I am an associate professor of political science at <a href="https://www.bgsu.edu/arts-and-sciences/political-science.html" target="_blank">Bowling Green State University</a>. I study American political institutions, with a particular focus on legislative behavior, representation, race, and gender. I teach courses in American politics, state and local politics, race and ethnicity, and research methods. I received my Ph.D. in Political Science from the University of California, Davis.</p>
+<p align="justify">I am an associate professor of political science at <a href="https://www.bgsu.edu/arts-and-sciences/political-science.html" target="_blank">Bowling Green State University</a>. 
+  
+  I study American political institutions, with a particular focus on legislative behavior, representation, race, and gender. I teach courses in American politics, state and local politics, race and ethnicity, and research methods. 
+  
+  I received my Ph.D. in Political Science from the University of California, Davis.</p>
 
 
 
