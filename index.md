@@ -23,7 +23,7 @@ bigimg:
   
   I study American political institutions, with a particular focus on legislative behavior, representation, race, and gender. I teach courses in American politics, state and local politics, race and ethnicity, and research methods. 
   
-  I received my Ph.D. in Political Science from the University of California, Davis.</p>
+  I received my Ph.D. in Political Science from the University of California, Davis (Go Ags!).</p>
 
 
 
