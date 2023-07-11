@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Nicole KalafHughes, PhD
+title: Nicole Kalaf-Hughes, PhD
 subtitle: Associate Professor, Bowling Green State University
 use-site-title: true
 bigimg:
   - "/img/pond.jpg": "Kapalua Walking Trails"
   - "/img/williams1.jpg": "Bowling Green State University"
-  - "/img/williams2.jpg": "Bowling Green State University"
-  - "/img/univhall1.jpg": "Bowling Green State University"
+  - "/img/robots.jpg": "Bowling Green State University"
 ---
 
 
