@@ -15,7 +15,7 @@ bigimg:
  <p><img align="left" style="padding: 0 15px; width: 40%; height: 40%" src="img/robots.jpg"></p>
 <p style="margin-top: 20px;"> </p> 
 
-# [About Me](https://www.joshuaboston.com/cv/)
+# [About Me](https://ngkalaf.github.io/cv/)
 
 <p align="justify">I am an associate professor of political science at <a href="https://www.bgsu.edu/arts-and-sciences/political-science.html" target="_blank">Bowling Green State University</a>. </p>
   
