@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nicole Kalaf-Hughes, PhD
+title: Nicole KalafHughes, PhD
 subtitle: Associate Professor, Bowling Green State University
 use-site-title: true
 bigimg:
