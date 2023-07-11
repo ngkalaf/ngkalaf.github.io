@@ -62,14 +62,14 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Joshua Boston
-  email: "jboston@bgsu.edu"
-  facebook: jktboston  # eg. daattali
-  github: jktboston    # eg. daattali
-  twitter: jktboston   # eg. daattali
+  name: Niki Kalaf-Hughes
+  email: "ngkalaf@bgsu.edu"
+  #facebook: jktboston  # eg. daattali
+  #github: jktboston    # eg. daattali
+ #twitter: jktboston   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  google-scholar: "https://scholar.google.com/citations?user=hKBsYfwAAAAJ&hl=en"
+  google-scholar: "https://scholar.google.com/citations?user=RzPsXMQAAAAJ&hl=en"
   linkedin: jktboston  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -77,7 +77,7 @@ author:
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: +14193726378   # eg. +14159998888
+  #telephone: +14193726378   # eg. +14159998888
   steam: yourname     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
@@ -85,36 +85,36 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   google-scholar: true
   github: false
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
   instagram: false
   youtube: false
   spotify: false
-  telephone: true
+  telephone: false
   steam: false
   twitch: false
   yelp: false
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
   google-scholar: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "JoshuaBoston.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "nikikalafhughes.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -140,7 +140,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Saint Louis"
+timezone: "America/Detroit"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
