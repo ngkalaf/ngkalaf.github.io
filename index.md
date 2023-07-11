@@ -12,7 +12,7 @@ bigimg:
 ---
 
 
- <p><img align="left" style="padding: 0 15px; width: 45%; height: 45%" src="img/robots.jpg"></p>
+ <p><img align="left" style="padding: 0 15px; width: 35%; height: 35%" src="img/robots.jpg"></p>
 <p style="margin-top: 20px;"> </p> 
 
 # [About Me](https://www.joshuaboston.com/cv/)
