@@ -47,7 +47,7 @@ title: Research
 
 <ul style="list-style-type:circle;">
 
- <li>Kalaf-Hughes, Nicole. 2023. ”Policymaking Effectiveness and Inter-Branch Communications in the US House: Some Legislators are Objectively Better than Others” Center for Effective Lawmaking Working Paper 2023-04. <a href="https://thelawmakers.org/wp-content/uploads/2023/06/K-H_FullPaper_CEL_5.3.23.pdf"</a> </li>
+ <li>Kalaf-Hughes, Nicole. 2023. <a href="https://thelawmakers.org/wp-content/uploads/2023/06/K-H_FullPaper_CEL_5.3.23.pdf">”Policymaking Effectiveness and Inter-Branch Communications in the US House: Some Legislators are Objectively Better than Others”</a> Center for Effective Lawmaking Working Paper 2023-04.  </li>
 
  <li>Heidt-Forsythe, Erin, Nicole Kalaf-Hughes, and Heather Silber Mohamed. 2022. “Roe is gone. How will state abortion restrictions affect IVF and more?”
 Washignton Post’s Monkey Cage Blog.June 25, 2022. https://www.washingtonpost.com/politics/2022/06/25/dodds-roe-ivf-infertility-embryos-egg-donation/ </li>
