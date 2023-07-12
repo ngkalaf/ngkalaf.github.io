@@ -12,9 +12,13 @@ bigimg:
 
 ---
 
+img {
+  border-radius: 50%;
+}
+ <p><img align="left" style="padding: 0 15px; width: 40%; height: 40%" src="img/robots.jpg"></p>
+<p style="margin-top: 20px;"> </p> 
 
- <!---  <p><img align="left" style="padding: 0 15px; width: 40%; height: 40%" src="img/robots.jpg"></p>
-<p style="margin-top: 20px;"> </p> --->
+
 
 # [About Me](https://ngkalaf.github.io/cv/)
 
