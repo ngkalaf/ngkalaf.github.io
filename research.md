@@ -12,7 +12,7 @@ title: Research
 
 ### Refereed Articles
 
-<ol start="13" reversed>
+<ol start="0" reversed>
 
   <li>Kalaf-Hughes, Nicole. 2023.  <a href="https://doi.org/10.1017/S1049096522001214">``Promoting Information and Visual Literacy Skills in Undergraduate Students Using Infographics.''</a> PS:Political Science & Politics. 56(2):321-327 </li>
   
