@@ -12,8 +12,8 @@ title: Research
 
 ### Refereed Articles
 
-<ol start="0" reversed>
-
+<ul style="list-style-type:circle;">
+  
   <li>Kalaf-Hughes, Nicole. 2023.  <a href="https://doi.org/10.1017/S1049096522001214">``Promoting Information and Visual Literacy Skills in Undergraduate Students Using Infographics.''</a> PS:Political Science & Politics. 56(2):321-327 </li>
   
   <li>Kalaf-Hughes, Nicole and Debra Lynn Leiter. 2021. <a href="https://doi.org/10.1080/21565503.2021.2010575">``Nasty Women and Bad Hombres: The Effect of Racial and Gender Resentment on Evaluations of Presidential Candidate Valence.''</a> Politics, Groups, and Identities. 12: 1-29. </li>
