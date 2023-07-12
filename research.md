@@ -18,12 +18,7 @@ title: Research
   
   
   
-  <a href="https://doi.org/10.1017/S1049096522001214“>Promoting Information and Visual Literacy Skills in Undergraduate Students Using Infographics.</a>
-  
-
-
-
-<p><b>Refereed Articles</b></p>
+### Other Works
 
 
   
