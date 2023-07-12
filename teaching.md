@@ -5,7 +5,7 @@ title: Teaching and Instructional Design
 
 <p align="justify"> As an educator, my teaching has been recognized with the American Political Science Association’s CQ Press Award for Innovative Teaching (2019), and student-led awards at Bowling Green State University. </p>
 
-An interest in instructional design has informed my pedagogical approach and I recieved a M.Ed. in Instructional Design and Technology from BGSU in 2022.  
+<p align="justify"> An interest in instructional design has informed my pedagogical approach and I recieved a M.Ed. in Instructional Design and Technology from BGSU in 2022. </p>
 
 
 ### Courses Taught
