@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Niki Kalaf-Hughes
+title: Nicole Kalaf-Hughes, PhD
 subtitle: University Teaching Experience
 description: Niki's work as an instructor.
 use-site-title: true
