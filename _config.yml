@@ -23,7 +23,7 @@ description: BGSU Associate Professor of Political Science
 
 # List of links in the navigation bar
 navbar-links:
-  Curriculum Vitae: "cv"
+  CV: "cv"
   Teaching: "teaching"
   Research: "research"
   #Instructional Design: "instructional design"
