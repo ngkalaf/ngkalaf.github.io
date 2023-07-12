@@ -36,7 +36,7 @@ title: Research
 
    <li>Mills, Russell and Nicole Kalaf-Hughes. 2015.  <a href="https://doi.org/10.59604/1046-2309.1002">``The Evolution of Distributive Benefits: The Rise of Letter-Marking in the United States Congress.'' </a>  The Journal of Economics and Politics 22(1):35-58. </li>
 
-    <li>Mills, Russell W., Nicole Kalaf-Hughes, and Jason MacDonald. 2016. ``Agency Policy Preferences, Congressional Letter-Marking, and the Allocation of Distributive Policy Benefits.''</a>  The Journal of Public Policy 36(4): 547-571. </li>
+    <li>Mills, Russell W., Nicole Kalaf-Hughes, and Jason MacDonald. 2016. <a href="https://doi.org/10.1017/S0143814X15000252">``Agency Policy Preferences, Congressional Letter-Marking, and the Allocation of Distributive Policy Benefits.''</a>  The Journal of Public Policy 36(4): 547-571. </li>
 
   <li>Kalaf-Hughes, Nicole. 2013. <a href="https://doi.org/10.1080/21565503.2013.842490">``Position-Taking in House Debate and the Issue of Immigration.'' </a>  Politics, Groups, and Identities 1(4): 488-509. </li>
 
