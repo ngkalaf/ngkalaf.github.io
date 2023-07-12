@@ -58,7 +58,7 @@ title: Research
 
  <li> <a href="http://www.rstreet.org/wp-content/uploads/2017/01/83.pdf">“Exit Earmarks, Enter Lettermarks” </a> (with Russell W. Mills). 2017. </li>
 
- <li> <a href="[http://www.rstreet.org/wp-content/uploads/2017/01/83.pdf](https://www.washingtonpost.com/news/monkey-cage/wp/2015/08/18/this-is-what-will-make-it-harder-for-congress-to-pass-a-budget-this-fall/?utm_term=.011eb45ee40d)">“This is what will make it harder for Congress to pass a budget this fall.” </a> (with Russell Mills and Jason MacDonald). The Monkey Cage. August 18, 2015.</li>
+ <li> <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2015/08/18/this-is-what-will-make-it-harder-for-congress-to-pass-a-budget-this-fall/?utm_term=.011eb45ee40d">“This is what will make it harder for Congress to pass a budget this fall.” </a> (with Russell Mills and Jason MacDonald). The Monkey Cage. August 18, 2015.</li>
 
  <li>Kalaf-Hughes, Nicole. 2015. “South Carolina” in Contemporary Immigration in America: A State by State Encyclopedia. ed.Kathleen R. Arnold. Santa Barbara, CA: ABC-CLIO. </li>
 
