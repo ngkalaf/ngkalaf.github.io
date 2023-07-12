@@ -22,56 +22,23 @@ title: Research
 
   <li>Kalaf-Hughes, Nicole, Jason MacDonald, and Lauren Santoro. 2021. <a href="https://doi.org/10.1017/S1743923X21000015">``Congresswomen, Legislative Entrepreneurship, and the Basis for Effective Legislating in the U.S. House, 1973-2008.''</a>  Politics & Gender. 1-32. </li>
 
-  <li>Kalaf-Hughes, Nicole and Debra Leiter. 2020. “That Woman from Michigan: How
-Gender Resentment Shapes the Efficacy of Stay-at-Home Policies”
-Politics & Gender
-doi:
-10.1017/S1743923X20000392. </li>
+  <li>Kalaf-Hughes, Nicole and Debra Leiter. 2020. <a href="https://doi.org/10.1017/S1743923X20000392">``That Woman from Michigan: How Gender Resentment Shapes the Efficacy of Stay-at-Home Policies'' </a> Politics & Gender 16(4): 983-990. </li>
 
-  <li>Kalaf-Hughes, Nicole. 2019. “Reaching Students with Low Interest: Subject Matter Inter-
-est and Perceptions of Open Educational Resources in an Introductory American Government
-Course”
-Journal of Political Science Education
-DOI: 10.1080/15512169.2019.1694530. </li>
+  <li>Kalaf-Hughes, Nicole. 2019. <a href="https://doi.org/10.1080/15512169.2019.16945302">``Reaching Students with Low Interest: Subject Matter Interest and Perceptions of Open Educational Resources in an Introductory American Government Course'' </a> Journal of Political Science Education. 17(sup1), 459-485.</li>
 
-    <li>Kalaf-Hughes, Nicole. 2020. “Representation by the Minute: The Influence of Ethnicity, Parti-
-sanship, and District Fit on Legislator One-Minute Floor Speeches.”
-Congress & The Presidency
-.
-47(1): 92-129.</li>
+    <li>Kalaf-Hughes, Nicole. 2020. <a href="https://doi.org/10.1080/07343469.2019.1666437">``Representation by the Minute: The Influence of Ethnicity, Partisanship, and District Fit on Legislator One-Minute Floor Speeches.'' </a>  Congress & The Presidency. 47(1): 92-129.</li>
 
-  <li>Kalaf-Hughes, Nicole and Andrew Kear. 2017. “Framed for Compromise? The Role of Bill
-Framing in State Legislative Behavior on Natural Gas Policy.”
-Policy Studies Journal
-DOI:
-10.1111/psj.12208 </li>
+  <li>Kalaf-Hughes, Nicole and Andrew Kear. 2017. <a href="https://doi.org/10.1111/psj.12208">``Framed for Compromise? The Role of Bill Framing in State Legislative Behavior on Natural Gas Policy.'' </a>  Policy Studies Journal 46(3): 598-628.  </li>
 
-    <li>Mills, Russell and Nicole Kalaf-Hughes. 2017. “The Importance of Markets, Politics, and Commu-
-nity Support: An Analysis of the Small Community Air Service Development Program.”
-Journal
-of Air Transport Management
-65(October): 118-126. </li>
+    <li>Mills, Russell and Nicole Kalaf-Hughes. 2017.  <a href="https://doi.org/10.1016/j.jairtraman.2017.09.012">``The Importance of Markets, Politics, and Community Support: An Analysis of the Small Community Air Service Development Program.'' </a>  Journal of Air Transport Management 65(October): 118-126. </li>
 
-  <li>Kalaf-Hughes, Nicole and Russell W. Mills. 2016. “Working Together: An Empirical Analysis of
-a Multi-Class Legislative-Executive Branch Simulation.”
-Journal of Political Science Education
-12(3): 335-352. DOI:10.1080/15512169.2015.1111801. </li>
+  <li>Kalaf-Hughes, Nicole and Russell W. Mills. 2016. <a href="https://doi.org/10.1080/15512169.2015.1111801">``Working Together: An Empirical Analysis of a Multi-Class Legislative-Executive Branch Simulation.'' </a>  Journal of Political Science Education 12(3): 335-352.  </li>
 
-   <li>Mills, Russell and Nicole Kalaf-Hughes. 2015. “The Evolution of Distributive Benefits: The Rise
-of Letter-Marking in the United States Congress.”
-The Journal of Economics and Politics
-22(1):
-35-58. </li>
+   <li>Mills, Russell and Nicole Kalaf-Hughes. 2015.  <a href="https://doi.org/10.59604/1046-2309.1002">``The Evolution of Distributive Benefits: The Rise of Letter-Marking in the United States Congress.'' </a>  The Journal of Economics and Politics 22(1):35-58. </li>
 
-    <li>Mills, Russell W., Nicole Kalaf-Hughes, and Jason MacDonald. 2016. “Agency Policy Preferences,
-Congressional Letter-Marking, and the Allocation of Distributive Policy Benefits.”
-The Journal of
-Public Policy
-36(4): 547-571. DOI:10.1017/S0143814X15000252. </li>
+    <li>Mills, Russell W., Nicole Kalaf-Hughes, and Jason MacDonald. 2016. <a href="https://doi.org/10.1017/S0143814X15000252">``Agency Policy Preferences, Congressional Letter-Marking, and the Allocation of Distributive Policy Benefits.'' </a>  The Journal of Public Policy 36(4): 547-571. </li>
 
-  <li>Kalaf-Hughes, Nicole. 2013. “Position-Taking in House Debate and the Issue of Immigration.”
-Politics, Groups, and Identities
-1(4): 488-509. </li>
+  <li>Kalaf-Hughes, Nicole. 2013. <a href="https://doi.org/10.1080/21565503.2013.842490">``Position-Taking in House Debate and the Issue of Immigration.'' </a>  Politics, Groups, and Identities 1(4): 488-509. </li>
   
 
 
