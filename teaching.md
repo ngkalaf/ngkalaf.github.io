@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching and Instructional Design
+title: Teaching
 ---
 
 <p align="justify"> As an educator, my teaching has been recognized with the American Political Science Association’s CQ Press Award for Innovative Teaching (2019), and student-led awards at Bowling Green State University. </p>
