@@ -39,7 +39,8 @@ title: Research
     <li>Mills, Russell W., Nicole Kalaf-Hughes, and Jason MacDonald. 2016. <a href="https://doi.org/10.1017/S0143814X15000252">``Agency Policy Preferences, Congressional Letter-Marking, and the Allocation of Distributive Policy Benefits.'' </a>  The Journal of Public Policy 36(4): 547-571. </li>
 
   <li>Kalaf-Hughes, Nicole. 2013. <a href="https://doi.org/10.1080/21565503.2013.842490">``Position-Taking in House Debate and the Issue of Immigration.'' </a>  Politics, Groups, and Identities 1(4): 488-509. </li>
-  
+
+
 
 
   
