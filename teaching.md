@@ -1,19 +1,14 @@
 ---
 layout: page
-title: Nicole Kalaf-Hughes, PhD
-subtitle: University Teaching Experience
-description: Niki's work as an instructor.
-use-site-title: true
-bigimg:
-  - "/img/pond.jpg": "Kapalua Walking Trails"
-  - "/img/lariver.jpg": "The LA River"
-  - "/img/bluecreek.jpg": "Blue Creek Metropark"
+title: Teaching and Instructional Design
 ---
 
-<p align="justify">I have been recognized for teaching by my students and peers, including the American Political Science Association’s CQ Press Award for Innovative Teaching, and student-led awards at Bowling Green State University. </p>
+<p align="justify"> As an educator, my teaching has been recognized with the American Political Science Association’s CQ Press Award for Innovative Teaching (2019), and student-led awards at Bowling Green State University. </p>
+
+An interest in instructional design has informed my pedagogical approach and I recieved a M.Ed. in Instructional Design and Technology from BGSU in 2022.  
 
 
-### Courses
+### Courses Taught
 #### Bowling Green State University
   * POLS 1100 Introduction to American Government
   * POLS 3310 State and Local Politics
@@ -23,6 +18,10 @@ bigimg:
   * POLS 4450/5800 Race and Ethnic Politics
   * POLS 6310 Seminar in American Politics (Graduate)
   * POLS 6750 Research Methods (Graduate)
+
+#### UC Davis
+  * POL 104 California Politics 
+
 
 
   
