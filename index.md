@@ -8,7 +8,7 @@ bigimg:
   - "/img/noho.JPG": "North Hollywood Mural"
   - "/img/bluecreek.jpg": "Blue Creek Metropark"
   - "/img/lariver.jpg": "The LA River"
-  - "/img/ducks.jpg": "Kapalua Walking Trails"
+  - "/img/ducks.jpg": "Ducks"
 
 ---
 
