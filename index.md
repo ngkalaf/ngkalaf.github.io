@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nicole Kalaf-Hughes
-subtitle: Associate Professor | Bowling Green State University | Political Science
+title: Nicole Kalaf-Hughes, PhD
+subtitle: Associate Professor | Bowling Green State University 
 use-site-title: true
 bigimg:
   - "/img/pond.jpg": "Kapalua Walking Trails"
