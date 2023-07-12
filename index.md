@@ -5,7 +5,7 @@ subtitle: Associate Professor, Bowling Green State University
 use-site-title: true
 bigimg:
   - "/img/pond.jpg": "Kapalua Walking Trails"
-  - "/img/noho.jpg": "North Hollywood Mural"
+  - "/img/noho.JPG": "North Hollywood Mural"
   - "/img/bluecreek.jpg": "Blue Creek Metropark"
   - "/img/lariver.jpg": "The LA River"
   - "/img/ducks.jpg": "Kapalua Walking Trails"
