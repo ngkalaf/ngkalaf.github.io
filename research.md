@@ -13,19 +13,29 @@ title: Research
 ### Refereed Articles
 
 <ul style="list-style-type:circle;">
+   <li>Rainey-Smithback, Sarah and Nicole Kalaf-Hughes. 2025.<a href="https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1268&context=feministpedagogy"> “Using Classroom Response Systems for
+Feminist Pedagogy in Large Classes.” </a>Feminist Pedagogy 6(2).</li>
+
+   <li>Kalaf-Hughes, Nicole and Debra Leiter. 2025. <a href="https://doi.org/10.1177/10659129251336169
+"> “The Efficacy Gap: Resentment and its Impact on
+External and Internal Political Efficacy.” </a>Political Research Quarterly 78(3): 1007-1028.</li>
+
+  <li>Kalaf-Hughes, Nicole and Debra Leiter. 2024. <a href="https://ideaexchange.uakron.edu/conlawnow/vol16/iss2/10/"> “It’s Not About Children: How Gender Resentment
+Shapes Public Opinion on Abortion in the United States.”</a> ConLawNOW 16(2).</li>
   
   <li>Kalaf-Hughes, Nicole. 2023.  <a href="https://doi.org/10.1017/S1049096522001214">``Promoting Information and Visual Literacy Skills in Undergraduate Students Using Infographics.''</a> PS:Political Science & Politics. 56(2):321-327 </li>
   
-  <li>Kalaf-Hughes, Nicole and Debra Lynn Leiter. 2021. <a href="https://doi.org/10.1080/21565503.2021.2010575">``Nasty Women and Bad Hombres: The Effect of Racial and Gender Resentment on Evaluations of Presidential Candidate Valence.''</a> Politics, Groups, and Identities. 12: 1-29. </li>
+  <li>Kalaf-Hughes, Nicole and Debra Lynn Leiter. 2023. <a href="https://doi.org/10.1080/21565503.2021.2010575">``Nasty Women and Bad Hombres: The Effect of Racial and Gender Resentment on Evaluations of Presidential Candidate Valence.''</a> Politics, Groups, and Identities. 12: 1-29. </li>
 
+ <li>Kalaf-Hughes, Nicole, Jason MacDonald, and Lauren Santoro. 2022. <a href="https://doi.org/10.1017/S1743923X21000015">``Congresswomen, Legislative Entrepreneurship, and the Basis for Effective Legislating in the U.S. House, 1973-2008.''</a>  Politics & Gender. 1-32. </li>
+ 
   <li>Kalaf-Hughes, Nicole and R.G. Cravens. 2021. <a href="https://doi.org/10.1080/15512169.2021.1921586">``Does a Wikipedia-Based Assignment Increase Self-Efficacy Among Female Students? A Qualified Maybe.''</a> Journal of Political Science Education. 17(1): 862-879. </li>
 
-  <li>Kalaf-Hughes, Nicole, Jason MacDonald, and Lauren Santoro. 2021. <a href="https://doi.org/10.1017/S1743923X21000015">``Congresswomen, Legislative Entrepreneurship, and the Basis for Effective Legislating in the U.S. House, 1973-2008.''</a>  Politics & Gender. 1-32. </li>
+  <li>Kalaf-Hughes, Nicole. 2021. <a href="https://doi.org/10.1080/15512169.2019.16945302">``Reaching Students with Low Interest: Subject Matter Interest and Perceptions of Open Educational Resources in an Introductory American Government Course'' </a> Journal of Political Science Education. 17(sup1), 459-485.</li>
 
   <li>Kalaf-Hughes, Nicole and Debra Leiter. 2020. <a href="https://doi.org/10.1017/S1743923X20000392">``That Woman from Michigan: How Gender Resentment Shapes the Efficacy of Stay-at-Home Policies'' </a> Politics & Gender 16(4): 983-990. </li>
 
-  <li>Kalaf-Hughes, Nicole. 2019. <a href="https://doi.org/10.1080/15512169.2019.16945302">``Reaching Students with Low Interest: Subject Matter Interest and Perceptions of Open Educational Resources in an Introductory American Government Course'' </a> Journal of Political Science Education. 17(sup1), 459-485.</li>
-
+ 
     <li>Kalaf-Hughes, Nicole. 2020. <a href="https://doi.org/10.1080/07343469.2019.1666437">``Representation by the Minute: The Influence of Ethnicity, Partisanship, and District Fit on Legislator One-Minute Floor Speeches.'' </a>  Congress & The Presidency. 47(1): 92-129.</li>
 
   <li>Kalaf-Hughes, Nicole and Andrew Kear. 2017. <a href="https://doi.org/10.1111/psj.12208">``Framed for Compromise? The Role of Bill Framing in State Legislative Behavior on Natural Gas Policy.'' </a>  Policy Studies Journal 46(3): 598-628.  </li>
@@ -36,7 +46,7 @@ title: Research
 
    <li>Mills, Russell and Nicole Kalaf-Hughes. 2015.  <a href="https://doi.org/10.59604/1046-2309.1002">``The Evolution of Distributive Benefits: The Rise of Letter-Marking in the United States Congress.'' </a>  The Journal of Economics and Politics 22(1):35-58. </li>
 
-    <li>Mills, Russell W., Nicole Kalaf-Hughes, and Jason MacDonald. 2016. <a href="https://doi.org/10.1017/S0143814X15000252">``Agency Policy Preferences, Congressional Letter-Marking, and the Allocation of Distributive Policy Benefits.''</a>  The Journal of Public Policy 36(4): 547-571. </li>
+    <li>Mills, Russell W., Nicole Kalaf-Hughes, and Jason MacDonald. 2016. <ahref="https://doi.org/10.1017/S0143814X15000252">``Agency Policy Preferences, Congressional Letter-Marking, and the Allocation of Distributive Policy Benefits.'' </a>  The Journal of Public Policy 36(4): 547-571. </li>
 
   <li>Kalaf-Hughes, Nicole. 2013. <a href="https://doi.org/10.1080/21565503.2013.842490">``Position-Taking in House Debate and the Issue of Immigration.'' </a>  Politics, Groups, and Identities 1(4): 488-509. </li>
 
